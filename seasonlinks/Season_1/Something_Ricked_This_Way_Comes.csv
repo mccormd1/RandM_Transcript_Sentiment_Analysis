@@ -1,3 +1,571 @@
 SentenceID,Season,Episode,Sentence
-1,1,Something_Ricked_This_Way_Comes,"<p>This article is a <b>transcript</b> of the <a class=""text"" href=""http://rickandmorty.wikia.com/wiki/Rick_and_Morty""><i>Rick and Morty</i></a> episode <a href=""/wiki/Something_Ricked_This_Way_Comes"" title=""Something Ricked This Way Comes""><i>Something Ricked This Way Comes</i></a> from <a href=""/wiki/Season_1"" title=""Season 1"">Season 1</a>. It aired on March 24, 2014.
-</p>"
+1,1,Something_Ricked_This_Way_Comes,[ Popping ]
+2,1,Something_Ricked_This_Way_Comes,Jerry: [ Sighs ]
+3,1,Something_Ricked_This_Way_Comes,"Morty: Hey, Rick, I have to make a project for the science fair this weekend,
+You think you could help me out?"
+4,1,Something_Ricked_This_Way_Comes,"Rick: Whatever,"
+5,1,Something_Ricked_This_Way_Comes,"Jerry: Well, I mean, traditionally, science fairs are a father-son thing,"
+6,1,Something_Ricked_This_Way_Comes,"Rick: Well, scientifically, traditions are an idiot thing,"
+7,1,Something_Ricked_This_Way_Comes,"Beth: Morty, I think it would be fun for you to work on a science project with your dad,"
+8,1,Something_Ricked_This_Way_Comes,[ Cellphone beeps ]
+9,1,Something_Ricked_This_Way_Comes,"Morty: [ Clears throat ]
+Yeah, dad, Why don't we do it together?"
+10,1,Something_Ricked_This_Way_Comes,"Jerry: Yes! You backed the right horse on this one, son,
+We'll get out the crayons, brew some coffee, and knock this thing out in two or three days,"
+11,1,Something_Ricked_This_Way_Comes,"[ Robot whirs ]
+Robot: What is my purpose?"
+12,1,Something_Ricked_This_Way_Comes,"Rick: Pass the butter,
+Thank you,"
+13,1,Something_Ricked_This_Way_Comes,[ Popping ]
+14,1,Something_Ricked_This_Way_Comes,"Summer: Dad, I need a ride to work,"
+15,1,Something_Ricked_This_Way_Comes,"Jerry: Maybe Rick can give you a ride,
+I'm helping Morty with science,"
+16,1,Something_Ricked_This_Way_Comes,"Rick: I'm busy,"
+17,1,Something_Ricked_This_Way_Comes,Summer: Doing what?
+18,1,Something_Ricked_This_Way_Comes,"Rick: Uh, anything else,
+Robot: What is my purpose?"
+19,1,Something_Ricked_This_Way_Comes,"Rick: You pass butter,"
+20,1,Something_Ricked_This_Way_Comes,"Robot: Oh, my God,"
+21,1,Something_Ricked_This_Way_Comes,"Rick: Yeah, welcome to the club, pal,"
+22,1,Something_Ricked_This_Way_Comes,Rick: Since when you have a job?
+23,1,Something_Ricked_This_Way_Comes,"Summer: Since last week,
+It's part-time at this little vintage thrift store,
+My boss is this really smart, eccentric old man that treats me nice and values me,"
+24,1,Something_Ricked_This_Way_Comes,"Rick: Meow, Can't wait to meet this Fascinating character,"
+25,1,Something_Ricked_This_Way_Comes,"Summer: Please don't,
+Goldenfold: Oh, Well, when did this stop being jamba juice?"
+26,1,Something_Ricked_This_Way_Comes,"Mr. Needful: I've just recently opened for business, mister, um, Goldenfold,"
+27,1,Something_Ricked_This_Way_Comes,"Goldenfold: You know my name?
+That's disarming,"
+28,1,Something_Ricked_This_Way_Comes,"Mr. Needful: I also know you long for female company,
+Goldenfold: You know, it has been lonely since the divorce,
+Some voids can't be filled with jamba juice,"
+29,1,Something_Ricked_This_Way_Comes,"Mr. Needful: This aftershave makes a man quite irresistible to women,
+Free of charge,
+One never pays here -- not with money,
+Goldenfold: Nothing to read into there, Thanks!"
+30,1,Something_Ricked_This_Way_Comes,"Summer: Sorry I'm late,
+Mr, Needful,
+This is my grandpa, Rick,
+He was just leaving,"
+31,1,Something_Ricked_This_Way_Comes,"Rick: Huh,"
+32,1,Something_Ricked_This_Way_Comes,"Mr. Needful: Tell me, Rick, what do you desire?"
+33,1,Something_Ricked_This_Way_Comes,"Rick: Eh, I make my own stuff,
+So, what are you -- like, the devil?"
+34,1,Something_Ricked_This_Way_Comes,Mr. Needful: What? Sorry?
+35,1,Something_Ricked_This_Way_Comes,"Rick: I don't know,
+Store comes out of nowhere, all the shit's old and creepy,
+Are you the devil?
+A demon? Leprechaun?"
+36,1,Something_Ricked_This_Way_Comes,Summer: Grandpa Rick!
+37,1,Something_Ricked_This_Way_Comes,"Rick: Hey, I'm not judging,
+Just like shoot straight,
+I'm a man of science,"
+38,1,Something_Ricked_This_Way_Comes,"Mr. Needful: Ah, then perhaps you could make use of this,
+This microscope reveals things beyond comprehension,"
+39,1,Something_Ricked_This_Way_Comes,[ Laughs ]
+40,1,Something_Ricked_This_Way_Comes,Rick: [ Laughs ]
+41,1,Something_Ricked_This_Way_Comes,[ Laughs louder ]
+42,1,Something_Ricked_This_Way_Comes,Rick: [ Laughs louder ]
+43,1,Something_Ricked_This_Way_Comes,[ Laughs louder ]
+44,1,Something_Ricked_This_Way_Comes,Rick: [ Laughs louder ]
+45,1,Something_Ricked_This_Way_Comes,"Summer: Grandpa, go home and drink,"
+46,1,Something_Ricked_This_Way_Comes,[ Swoop! ]
+47,1,Something_Ricked_This_Way_Comes,"Jerry: Why don't we do a model of the solar system?
+That's what my dad did with me when I was your age,"
+48,1,Something_Ricked_This_Way_Comes,"Morty: Oh, okay,"
+49,1,Something_Ricked_This_Way_Comes,"Jerry: You know,
+Rick's in his lab, making cyborgs and wormholes and all that weird stuff, but this is real science,
+A man and his boy, making planets,
+Hey, how about we use a ping-pong ball for Pluto?
+And then Jupiter --"
+50,1,Something_Ricked_This_Way_Comes,"Morty: Uh, actually,
+I don't think Pluto's a planet,"
+51,1,Something_Ricked_This_Way_Comes,"Jerry: [ Chuckles ]
+Of course Pluto's a planet, son,
+I learned that in the third grade,"
+52,1,Something_Ricked_This_Way_Comes,"Morty: Well, yeah, but you know they changed it,"
+53,1,Something_Ricked_This_Way_Comes,"Jerry: Morty, nobody changed the planets,"
+54,1,Something_Ricked_This_Way_Comes,"Morty: I just Googled it,
+Pluto's not a planet,
+They changed it in 2006,"
+55,1,Something_Ricked_This_Way_Comes,"Jerry: Yeah, I heard about that, Morty,
+And I disagree,"
+56,1,Something_Ricked_This_Way_Comes,Morty: You disagree?
+57,1,Something_Ricked_This_Way_Comes,"Jerry: That's right,
+It's possible to disagree in science, Morty,
+Pluto was a planet,
+Some committee of fancy assholes disagree,
+I disagree back,
+Give me a ping-pong ball,"
+58,1,Something_Ricked_This_Way_Comes,"Morty: Um, okay,
+I-I just have to,,,"
+59,1,Something_Ricked_This_Way_Comes,Jerry: Go find Rick and go over my head about Pluto?
+60,1,Something_Ricked_This_Way_Comes,"Morty: No, Geez, I just got to go to the bathroom, Damn,"
+61,1,Something_Ricked_This_Way_Comes,"Jerry: Oh, Okay, good,
+This is gonna be fun,"
+62,1,Something_Ricked_This_Way_Comes,"Rick: Hey, Morty, let me--let me-- let me ask you a question real quick,
+Does evil exist, and if so,
+- can one detect and measure it?"
+63,1,Something_Ricked_This_Way_Comes,Morty: Um...
+64,1,Something_Ricked_This_Way_Comes,"Rick: Rhetorical question, Morty,
+The answer's ""yes, you just have to be a genius,""
+Cute, Your sister's boss gave me a microscope that would have made me retarded,"
+65,1,Something_Ricked_This_Way_Comes,"Morty: Ooh, Oh, boy, Rick,
+I'm don't think you're allowed to say that word, you know?"
+66,1,Something_Ricked_This_Way_Comes,"Rick: Morty, I'm not disparaging the differently abled,
+I'm stating the fact that if
+I had used this microscope, it would have made me mentally retarded,"
+67,1,Something_Ricked_This_Way_Comes,"Morty: Okay, yeah, but I don't think it's about logic, Rick,
+I think the word has just become a symbolic issue for powerful groups that feel like they're doing the right thing,"
+68,1,Something_Ricked_This_Way_Comes,"Rick: Well, that's retarded,"
+69,1,Something_Ricked_This_Way_Comes,Jerry: What are you guys talking about?
+70,1,Something_Ricked_This_Way_Comes,"Rick: Apparently, nothing,"
+71,1,Something_Ricked_This_Way_Comes,"Jerry: You asked him if Pluto's a planet, didn't you?"
+72,1,Something_Ricked_This_Way_Comes,Morty: No!
+73,1,Something_Ricked_This_Way_Comes,"Rick: It's not,"
+74,1,Something_Ricked_This_Way_Comes,"Jerry: Shut up, Rick,
+I don't care what anyone says, If I can be a planet, it can be a planet again,
+Planet,
+Planet, planet, planet,"
+75,1,Something_Ricked_This_Way_Comes,"Rick: Stay scientific, Jerry,"
+76,1,Something_Ricked_This_Way_Comes,"Goldenfold: This aftershave made women want me, but it also made me impotent!
+Mr. Needful: A price for everything,
+Mr, Goldenfold,
+A price for everything,
+[ Laughs evilly ]"
+77,1,Something_Ricked_This_Way_Comes,"Goldenfold: Oh, my God!
+How could I not see this coming?!
+[ Sobbing ]
+My lust!
+My greed!
+I deserved this!"
+78,1,Something_Ricked_This_Way_Comes,"Rick: This serum should counteract the negative effects,"
+79,1,Something_Ricked_This_Way_Comes,"Goldenfold: Holy cats! Ladies, let's get out of here,
+I haven't learned a thing!"
+80,1,Something_Ricked_This_Way_Comes,"Rick: Here, You can have this back,"
+81,1,Something_Ricked_This_Way_Comes,Mr. Needful: You didn't use it?
+82,1,Something_Ricked_This_Way_Comes,"Rick: Sure I did -- to develop this,
+It detects and catalogs all your ""Twilight Zone,""
+Ray Bradbury, ""Friday the 13th"" the series voodoo crap magic,
+I thought you might want it so you didn't accidentally sell anybody, say,,,
+A typewriter that generates best-selling murder mysteries and then makes the murders happen in real life?
+Ooh,"
+83,1,Something_Ricked_This_Way_Comes,"Mr. Needful: Be quite,"
+84,1,Something_Ricked_This_Way_Comes,"Rick: Don't you want to make sure people know what they're getting?
+You're not intentionally selling,,,
+Beauty cream that makes ugly ladies pretty but also makes them blind?"
+85,1,Something_Ricked_This_Way_Comes,"Mr. Needful: I find this all quite preposterous,"
+86,1,Something_Ricked_This_Way_Comes,"Rick: Oh, I say, good sir,
+Oh, harrumph, Oh, oh"
+87,1,Something_Ricked_This_Way_Comes,[BABBLES ]
+88,1,Something_Ricked_This_Way_Comes,"Customer: That's beautiful,"
+89,1,Something_Ricked_This_Way_Comes,Rick: You know it's gonna be wearing you in three hours?
+90,1,Something_Ricked_This_Way_Comes,Mr. Needful: Do I need to call the police?
+91,1,Something_Ricked_This_Way_Comes,"Rick: Here, you can use my phone,
+Don't worry,
+It won't make you deaf because I'm not a hack,
+You think you're
+[BLEEP ] so great, you stupid piece of [BLEEP ] shit,"
+92,1,Something_Ricked_This_Way_Comes,"Summer: Stop! Hey!
+Stop it right now!
+Grandpa Rick,
+I like working here,"
+93,1,Something_Ricked_This_Way_Comes,"Rick: You work for the devil,"
+94,1,Something_Ricked_This_Way_Comes,Summer: So what?
+95,1,Something_Ricked_This_Way_Comes,"Both: ""so what?"""
+96,1,Something_Ricked_This_Way_Comes,"Summer: Yes, so what if he's the devil, Rick?
+At least the devil has a job,
+At least he's active in the community,
+What do you do? You eat our food and make gadgets,
+Buh-bye,"
+97,1,Something_Ricked_This_Way_Comes,"Rick: Whoops,"
+98,1,Something_Ricked_This_Way_Comes,[ Giggles ]
+99,1,Something_Ricked_This_Way_Comes,"Summer: I'm sorry, Mr, Needful,
+I'll clean that up,
+I don't know what I can do about the ghost lady
+- that came out of it, but --"
+100,1,Something_Ricked_This_Way_Comes,"Mr. Needful: It's fine,
+Summer, you know, your grandfather's right,
+This store curses people,
+That's my business,"
+101,1,Something_Ricked_This_Way_Comes,"Summer: Well, yeah, Fast-food gives people diabetes, and clothing stores have sweatshops,
+Is there a company hiring teenagers that isn't evil?
+This is my first job,
+You've been nice to me,
+Mr, Needful,
+You respect me,"
+102,1,Something_Ricked_This_Way_Comes,"Mr. Needful: Please, call me ""the devil,"""
+103,1,Something_Ricked_This_Way_Comes,"Summer: I'd rather not,,,"
+104,1,Something_Ricked_This_Way_Comes,"Mr. Needful: Yes, perhaps not during business hours,"
+105,1,Something_Ricked_This_Way_Comes,"Jerry: I told you, I want to file a declaration that Pluto is a planet,
+Well, then my son's going to fail his science class, and when that happens,
+I'm suing you first,
+I think I know what the
+""A"" in NASA stands for,"
+106,1,Something_Ricked_This_Way_Comes,"Morty: Dad, what's your endgame?"
+107,1,Something_Ricked_This_Way_Comes,"Jerry: Ain't no game, sucka,"
+108,1,Something_Ricked_This_Way_Comes,"Morty: Why don't we just make the solar system with eight planets?
+It's even easier,"
+109,1,Something_Ricked_This_Way_Comes,"Jerry: Sure, sure, and why don't we just burn
+Galileo at the stake for saying the sun is round?
+Science isn't always easy, Morty,"
+110,1,Something_Ricked_This_Way_Comes,Jerry: Whoa!
+111,1,Something_Ricked_This_Way_Comes,Morty: Whoa!
+112,1,Something_Ricked_This_Way_Comes,Jerry: What the hell?!
+113,1,Something_Ricked_This_Way_Comes,"[ Both groaning ]
+[ Ting! ]
+[ Hisses, buzzes ]"
+114,1,Something_Ricked_This_Way_Comes,"King Flippy Nips: I'm King Flippy Nips, ruler of Pluto,
+We discovered you quite by accident during routine surveillance of your world,
+You really gave it to those guys at NASA,"
+115,1,Something_Ricked_This_Way_Comes,"Jerry: I was -- you know, sometimes science is about conviction,
+King Flippy Nips: It'd like to introduce you to a few people that very much agree with you,"
+116,1,Something_Ricked_This_Way_Comes,"Jerry: Oh, I..."
+117,1,Something_Ricked_This_Way_Comes,"King Flippy Nips: Plutonians,
+Jerry Smith is a scientist from earth, where he's creating a model of our solar system,
+Jerry, tell Pluto about your decision,"
+118,1,Something_Ricked_This_Way_Comes,"Jerry: [ Clears throat ]
+Um... Pluto's a planet,"
+119,1,Something_Ricked_This_Way_Comes,[ Cheers and applause ]
+120,1,Something_Ricked_This_Way_Comes,"Jerry: Pluto's a [BLEEP] planet, bitch!"
+121,1,Something_Ricked_This_Way_Comes,"Morty: Oh, man, This is definitely gonna go to his head,"
+122,1,Something_Ricked_This_Way_Comes,"Mr. Needful: If it's athletic prize you desire, Principal Vagina,
+I might --
+Principal Vagina: I'll take it,"
+123,1,Something_Ricked_This_Way_Comes,Mr. Needful: B-but I haven't even --
+124,1,Something_Ricked_This_Way_Comes,"Principal Vagina: Thank you very, very much,
+Great store, Great place, Bye,"
+125,1,Something_Ricked_This_Way_Comes,"Mr. Needful: Huh, Okay,
+I must say, Summer, I thought your grandfather's outburst would have disrupted business, but this is the best weekend
+I've had since Salem,"
+126,1,Something_Ricked_This_Way_Comes,"Summer: Nice, ""Wholesome
+Delight"" for lunch?"
+127,1,Something_Ricked_This_Way_Comes,Mr. Needful: Is that the Vegan place?
+128,1,Something_Ricked_This_Way_Comes,"Summer: Yeah, I love their soup,"
+129,1,Something_Ricked_This_Way_Comes,"Mr. Needful: I'm kind of soup-ed out,
+Mrs. Tate, is it?
+What do you desire?
+Whoa, whoa, slow down, honey,"
+130,1,Something_Ricked_This_Way_Comes,"Mrs. Tate: Oh, is there a limit?
+Everything's free, right?"
+131,1,Something_Ricked_This_Way_Comes,"Summer: Let's just say you don't pay,,,with money,"
+132,1,Something_Ricked_This_Way_Comes,[ Both chuckle ]
+133,1,Something_Ricked_This_Way_Comes,"Mr. Needful: That was perfect,"
+134,1,Something_Ricked_This_Way_Comes,"Mrs. Tate: You pay with the curses, right?"
+135,1,Something_Ricked_This_Way_Comes,"Mr. Needful: Um... I -- well... but, Mrs. Tate, why do you want cursed items?"
+136,1,Something_Ricked_This_Way_Comes,"Mrs. Tate: Well, I'm going to get the curses removed at ""Curse Purge Plus,""
+You know, the guy on TV?"
+137,1,Something_Ricked_This_Way_Comes,[ Door closes ]
+138,1,Something_Ricked_This_Way_Comes,Mr. Needful: What?
+139,1,Something_Ricked_This_Way_Comes,"Rick: Have you acquired creepy specific old stuff from a mysterious antique or thrift store that gives you powers but [BLEEP] with you in unforeseeable ways?
+Bring it to ""Curse Purge Plus,""
+I use science to un-curse the items for cash, and you get to keep the powers,
+This guy got mysterious sneakers to make him run faster, but guess what?
+He would have had to run until he died, making them worthless,
+I removed the curse, making them worth, like,
+I don't know, $8 million,
+See you at the olympics,
+This eerily intelligent doll was threatening to murder its family,
+Now it does their taxes,
+Everything's deductible,
+Don't pay for cool stuff with your soul,
+Pay for it with money,
+You know, like how every other store in the world works?
+We're located at first and main in old town,
+Come on -- come on down,
+""first and,,,""
+[ Babbles ] ,,,""needful things,"" where you can get evil items for free!"
+140,1,Something_Ricked_This_Way_Comes,Mr. Needful: Diabolic son of a motherf--
+141,1,Something_Ricked_This_Way_Comes,"Plutonian Interviewer: We're back on
+""Good Morning, Pluto,""
+And a very good morning it is for our guest,
+Earth scientist Jerry Smith, who's making headlines with his bold announcement that is what, Jerry?"
+142,1,Something_Ricked_This_Way_Comes,"Jerry: Pluto is a planet,"
+143,1,Something_Ricked_This_Way_Comes,"Plutonian Interviewer: Well, how about that,
+I love it,"
+144,1,Something_Ricked_This_Way_Comes,"Scroopy Noopers: Morty Smith,
+I'm Scroopy Noopers,
+I'm a scientist,
+Can I show you something?"
+145,1,Something_Ricked_This_Way_Comes,"Morty: Uh, I better not,
+Right now,"
+146,1,Something_Ricked_This_Way_Comes,[ Blurp! ]
+147,1,Something_Ricked_This_Way_Comes,"Scroopy Noopers: The center of Pluto, Mr, Smith, is made of a substance called ""Plutonium,""
+Mines like these suck Plutonium up to the cities, where corporations use it to power everything, from diamond cars to golden showers,
+And the more we remove, the more Pluto shrinks,
+[ Rumbles ]
+There it goes again,
+Just shrank a little,
+But a few years ago, your scientists noticed
+Pluto had gotten so small they couldn't even call it a ""planet"" anymore,
+Should've been our wake-up call,
+But the rich Plutonians won't wake up, and they love your dad telling everyone Pluto's a planet because that means they can keep mining until Pluto goes from planet to asteroid to meteor, and finally,,,
+[BLOWS ]"
+148,1,Something_Ricked_This_Way_Comes,"Morty: Um, a party?"
+149,1,Something_Ricked_This_Way_Comes,Scroopy Noopers: Is everyone in your family an idiot?
+150,1,Something_Ricked_This_Way_Comes,"Morty: Well, for sure me and my dad are,"
+151,1,Something_Ricked_This_Way_Comes,"Scroopy Noopers: Well, all you have to do is get him to admit that, and you could save four billion lives,"
+152,1,Something_Ricked_This_Way_Comes,"Morty: Yeah, you know, the thing is my dad's really insecure,"
+153,1,Something_Ricked_This_Way_Comes,"Summer: Hmm, Funny,
+Mr, Needful, out of everything in the store, you'll never guess what we couldn't get rid of,"
+154,1,Something_Ricked_This_Way_Comes,[ Sputtering ]
+155,1,Something_Ricked_This_Way_Comes,"Summer: Oh, my God,"
+156,1,Something_Ricked_This_Way_Comes,[ Grunting ]
+157,1,Something_Ricked_This_Way_Comes,"Summer: Oh, my God,
+I wish this desk was lighter,
+I wish this knot was looser,"
+158,1,Something_Ricked_This_Way_Comes,[ Grunts ]
+159,1,Something_Ricked_This_Way_Comes,"Summer: Come on,
+[ Blows ]"
+160,1,Something_Ricked_This_Way_Comes,"Summer: I don't --
+Wait, what am I doing?
+I wish I knew CPR,"
+161,1,Something_Ricked_This_Way_Comes,"[ Chokes, sputters ]"
+162,1,Something_Ricked_This_Way_Comes,"Mr. Needful: Oh, Jesus, What a waste of a monkey paw,"
+163,1,Something_Ricked_This_Way_Comes,"Summer: Mr, Needful, how could you even think of doing something so horrible?"
+164,1,Something_Ricked_This_Way_Comes,"Mr. Needful: I'm the devil,
+What should I do when I fail -- get myself an ice cream?"
+165,1,Something_Ricked_This_Way_Comes,"Summer: You haven't failed,"
+166,1,Something_Ricked_This_Way_Comes,"Mr. Needful: People like Rick are making me obsolete,
+I mean, seriously,
+I may be ""the devil,"" but your grandpa is the devil,
+I just want to go back to hell, where everyone thinks
+I'm smart and funny,"
+167,1,Something_Ricked_This_Way_Comes,"Summer: No! It's not fair,
+Everyone in this town got something they wanted from you -- even Rick,
+I was your only friend, and I get nothing?"
+168,1,Something_Ricked_This_Way_Comes,"Mr. Needful: Okay, I'll give you one thing, Name it,"
+169,1,Something_Ricked_This_Way_Comes,"Summer: I want to help you,"
+170,1,Something_Ricked_This_Way_Comes,"Mr. Needful: Clever twist,"
+171,1,Something_Ricked_This_Way_Comes,"Summer: I learned from the best, you old fart,
+Now, let's go get you hydrated,"
+172,1,Something_Ricked_This_Way_Comes,"Rick: Looks like we've got,,, haunted boxing gloves that will make you the heavyweight champion in 1936, and then you'll be trapped there, winning the same fight for eternity,
+I can take out the ""eternity""
+And the padding, and then you'll have some time-traveling mittens,
+Oh, look, it's Rosemary's baby,
+How's business?"
+173,1,Something_Ricked_This_Way_Comes,"Summer: Here's the last of our inventory,
+We're going to file chapter 11 and do some restructuring,"
+174,1,Something_Ricked_This_Way_Comes,"Rick: Sounds like code for
+""You win, Rick,"""
+175,1,Something_Ricked_This_Way_Comes,"Summer: That was important to you, wasn't it?"
+176,1,Something_Ricked_This_Way_Comes,"Rick: Nope, It was important to your dumb devil friend,
+To me, this was all just a bit, like when Bugs Bunny [BLEEP ]
+With the opera singer for 20 minutes,"
+177,1,Something_Ricked_This_Way_Comes,"Summer: He tried to kill himself,"
+178,1,Something_Ricked_This_Way_Comes,"Rick: Seriously?
+Holy crap, Holy crap,"
+179,1,Something_Ricked_This_Way_Comes,"Summer: But you know what, grandpa Rick?
+He's strong, and he's never going to give up,"
+180,1,Something_Ricked_This_Way_Comes,"Rick: Uh-huh, yeah,
+I don't care,"
+181,1,Something_Ricked_This_Way_Comes,"Summer: Oh, I know,
+Everyone knows you don't care,"
+182,1,Something_Ricked_This_Way_Comes,Rick: So?
+183,1,Something_Ricked_This_Way_Comes,"Summer: So have fun not caring,"
+184,1,Something_Ricked_This_Way_Comes,"Rick: I always do,"
+185,1,Something_Ricked_This_Way_Comes,"Summer: Good,"
+186,1,Something_Ricked_This_Way_Comes,"Rick: Yeah, it is good,
+It's the best,"
+187,1,Something_Ricked_This_Way_Comes,"Summer:
+I'm sure it is, Bye,"
+188,1,Something_Ricked_This_Way_Comes,"Rick: Later,"
+189,1,Something_Ricked_This_Way_Comes,"Customer: I'm here to pick up my undead cat and child,"
+190,1,Something_Ricked_This_Way_Comes,"Rick: Yeah, uh... give me a sec,"
+191,1,Something_Ricked_This_Way_Comes,"Employee: These are the forms for the employee health plan,"
+192,1,Something_Ricked_This_Way_Comes,"Rick: All right, yeah, put -- put them on my,,,eh,
+I just got bored,
+Everybody out,"
+193,1,Something_Ricked_This_Way_Comes,"Jerry: All right, just one more rally, then I promise we'll get back to your science project,"
+194,1,Something_Ricked_This_Way_Comes,"Morty: Dad, Pluto isn't a planet,
+It's shrinking because of corporations,"
+195,1,Something_Ricked_This_Way_Comes,"Jerry: Yeah, that's what that anti-planet nut job
+Scroopy Noopers was screaming about outside the ministry of money's fundraiser,
+Are you telling me four billion
+Plutonians are wrong?"
+196,1,Something_Ricked_This_Way_Comes,"Morty: You said science wasn't easy,"
+197,1,Something_Ricked_This_Way_Comes,"Jerry: I said science isn't always easy,
+Obviously, that means sometimes it is easy,
+Let's not debase ourselves with word games, son,"
+198,1,Something_Ricked_This_Way_Comes,"Morty: Dad, their whole planet is dying,"
+199,1,Something_Ricked_This_Way_Comes,"Jerry: Ha! You called it a planet,
+Checkmate,"
+200,1,Something_Ricked_This_Way_Comes,"King Flippy Nips: What's up, Pluto?
+[ Cheers and applause ]
+[ Classical music plays ]
+Mr, Smith, please tell my friend here what you just told me, Go on,"
+201,1,Something_Ricked_This_Way_Comes,"Jerry: My very eager mother just served us nine pickles, and the ""pickles"" is Pluto,
+Plutonian: My God, the man's a genius,"
+202,1,Something_Ricked_This_Way_Comes,"Morty: Um, excuse me,"
+203,1,Something_Ricked_This_Way_Comes,"Jerry: Morty, what?"
+204,1,Something_Ricked_This_Way_Comes,"Morty: Dad, what did you think about the recent report published by the Pluto science reader linking Pluto-quakes, sinkholes, and surface shrinkage to deep-core
+Plutonium drilling?"
+205,1,Something_Ricked_This_Way_Comes,"Jerry: Well, son, what did you think when you were 5 and you pooped your pants, and you threw your poopy undies out your bedroom window because you thought it was like throwing something in the garbage?
+[ Laughter ]
+I mean, I'm trimming the hedges, and these things are just hanging there,
+Was I supposed to think the poop bunny left them?"
+206,1,Something_Ricked_This_Way_Comes,"Morty: Good one, dad,"
+207,1,Something_Ricked_This_Way_Comes,"Rick: Hey, Morty, you want to go on a ,,, oh, Hey, Beth, Hello?
+Hey, Jerry, you in here being stupid?"
+208,1,Something_Ricked_This_Way_Comes,"[ Sighs, burps ]
+[ Robot whirs ]"
+209,1,Something_Ricked_This_Way_Comes,"Rick: Thanks,
+Hey, you know, I was thinking, you know, I might watch a movie,"
+210,1,Something_Ricked_This_Way_Comes,"Robot: I am not programmed for friendship,"
+211,1,Something_Ricked_This_Way_Comes,"
+Rick: Suit yourself,
+[ Burps ]
+[ Hums ]
+Hey,Hey,
+W-w-what's going on?"
+212,1,Something_Ricked_This_Way_Comes,"Morty: Um, listen, can you help me do the stupid science fair project?"
+213,1,Something_Ricked_This_Way_Comes,"Rick: Whatever,"
+214,1,Something_Ricked_This_Way_Comes,"King Flippy Nips: Jerry, you must be so excited,
+The Pluto-bel prize is the highest honor a scientist can receive,"
+215,1,Something_Ricked_This_Way_Comes,"Jerry: I'm flattered and humbled,"
+216,1,Something_Ricked_This_Way_Comes,"King Flippy Nips: Oh, I like that,
+Use that in your speech,
+Also, talk about Pluto being a planet,
+People like that,"
+217,1,Something_Ricked_This_Way_Comes,"Plutonian Guard:Your highness, we've captured Scroopy Noopers,"
+218,1,Something_Ricked_This_Way_Comes,Scroopy Noopers: You animals! Animals!
+219,1,Something_Ricked_This_Way_Comes,"King Flippy Nips: Ooh, look who's little journey's come to an end,
+Take him to Pluto-namo bay,"
+220,1,Something_Ricked_This_Way_Comes,"Scroopy Noopers: You can't kill the truth, father,"
+221,1,Something_Ricked_This_Way_Comes,Jerry: What?
+222,1,Something_Ricked_This_Way_Comes,"King Flippy Nips: I can see you're confused,
+Pluto-namo bay is a military prison -- a sort of play on words,"
+223,1,Something_Ricked_This_Way_Comes,"Jerry: Did he call you ""father""?
+Scroopy Noopers, the anti-planet nut job, is your son?"
+224,1,Something_Ricked_This_Way_Comes,"King Flippy Nips: The young eat the old if you let them, Jerry,
+Pluto is a cold, cold celestial dwarf,
+Jerry: It's a what?"
+225,1,Something_Ricked_This_Way_Comes,"King Flippy Nips: Huh? Oh, planet,
+[ Laughs ]
+""Pluto is a cold, cold planet,""
+That's what I meant,
+Knock them dead out there, you,"
+226,1,Something_Ricked_This_Way_Comes,"Jerry: Pluto is...
+[ Sighs ] Not a planet,"
+227,1,Something_Ricked_This_Way_Comes,[ Shouting ]
+228,1,Something_Ricked_This_Way_Comes,"Jerry: Ow! It's not a planet,
+Hey! It's not a planet!
+I'm an idiot, and I love my son,"
+229,1,Something_Ricked_This_Way_Comes,"Mr. Needful: It was a long six hours, but we've overhauled
+""needful things""
+Into the globally-compliant web
+4,0 ""e-nomenon,"" n33dful,com, spelled with threes instead of ""e's,"""
+230,1,Something_Ricked_This_Way_Comes,[ Cheering ]
+231,1,Something_Ricked_This_Way_Comes,"Mr. Needful: Okay, that's it,
+We just got bought by Google!"
+232,1,Something_Ricked_This_Way_Comes,"Summer: Mm, I'm so proud of you, Lucius,
+So, how much did we make?"
+233,1,Something_Ricked_This_Way_Comes,[ Chuckling ]
+234,1,Something_Ricked_This_Way_Comes,"Mr. Needful: ""We,"" This is my business,
+Security!"
+235,1,Something_Ricked_This_Way_Comes,Summer: You're Zuckerberg-ing me?
+236,1,Something_Ricked_This_Way_Comes,"Mr. Needful: I was Zuckerberg-ing people before Zuckerberg's balls dropped,
+I'm the devil, bitch!"
+237,1,Something_Ricked_This_Way_Comes,"Summer: What, what?!"
+238,1,Something_Ricked_This_Way_Comes,[ Fiddle plays ]
+239,1,Something_Ricked_This_Way_Comes,Jerry: Hey!
+240,1,Something_Ricked_This_Way_Comes,"[ Groans ]
+Jerry: Hey, Morty,"
+241,1,Something_Ricked_This_Way_Comes,"Morty: Oh, oh, hey, dad,
+Um, what -- what are you doing back from Pluto so quick?"
+242,1,Something_Ricked_This_Way_Comes,"Jerry: Uh,,,some people just can't handle the truth,
+Especially dummies like me,
+Morty, I'm not as smart as your grandpa Rick, but I promise never to make that your problem again,"
+243,1,Something_Ricked_This_Way_Comes,"Morty: Hey, dad,
+Nobody's smarter than Rick, but nobody else is my dad,
+You're a genius at that,"
+244,1,Something_Ricked_This_Way_Comes,"Jerry: Wow,
+That's... humbling and flattering, son,
+Thank you,
+Let's say we finish ourselves an eight-planet solar system?"
+245,1,Something_Ricked_This_Way_Comes,"Morty:
+Um... I'm just gonna take
+this thing in and get an ""A"","
+246,1,Something_Ricked_This_Way_Comes,"Robot: Butter,"
+247,1,Something_Ricked_This_Way_Comes,"Morty: You're a genius at being my dad, dad,
+Quit while you're ahead,
+And also, knock next time, you know?
+I mean, I'm sitting in here, I'm 14 --
+I got a computer in here, you know?"
+248,1,Something_Ricked_This_Way_Comes,"Jerry: Oh, I --
+I think I understand,"
+249,1,Something_Ricked_This_Way_Comes,"Morty: You're really playing with fire when you burst in here like that, man,"
+250,1,Something_Ricked_This_Way_Comes,"Jerry: I get it, Say no more,"
+251,1,Something_Ricked_This_Way_Comes,"Morty: I mean, one of these days, you know, you're gonna end up seeing something,"
+252,1,Something_Ricked_This_Way_Comes,"Jerry: I got it!
+Noted, Good night,"
+253,1,Something_Ricked_This_Way_Comes,[ Metal music playing ]
+254,1,Something_Ricked_This_Way_Comes,"Rick: How's your pretend grandpa doing,
+aka ""the devil""?"
+255,1,Something_Ricked_This_Way_Comes,"Summer: He dumped me,"
+256,1,Something_Ricked_This_Way_Comes,"Rick: Oof, Sorry,"
+257,1,Something_Ricked_This_Way_Comes,Summer: Did we learn a lesson here I'm not seeing?
+258,1,Something_Ricked_This_Way_Comes,"Rick: Not sure,"
+259,1,Something_Ricked_This_Way_Comes,"Summer: Maybe in a much bigger way, Mr, Needful gave us both what we really wanted?
+Because I was always jealous of you hanging out with Morty, and you didn't realize how much you valued my approval?"
+260,1,Something_Ricked_This_Way_Comes,"Rick: No, that's dumb,"
+261,1,Something_Ricked_This_Way_Comes,"Summer: Yeah, not satisfying,"
+262,1,Something_Ricked_This_Way_Comes,"Rick: I'll tell you what, though, If -- if -- if it's satisfaction you're after,
+I think I might have an idea,"
+263,1,Something_Ricked_This_Way_Comes,"
+Uh-huh,
+Uh-huh,
+Uh-huh, totally, Let's do it,
+♪ X gonna give it to ya ♪
+♪ Wait for you to get it on your own ♪
+♪ X gonna deliver to ya ♪
+♪ Knock knock, open up the door, it's real ♪
+♪ With the non-stop pop pop and stainless steel ♪
+♪ Go hard, getting busy with it ♪
+♪ But I got such a good heart ♪
+♪ that I'll make the mother wonder if he did it ♪
+♪ Damn right, and
+I'll do it again ♪
+♪ 'cause I am right so I gots to win ♪
+♪ Break bread with the enemy ♪
+♪ But no matter how many cats
+I break bread with ♪
+♪ I'll break who you -- ♪"
+264,1,Something_Ricked_This_Way_Comes,"Mr. Needful: And that's how I took my storefront into the forefront of the up front,
+Thank you, seattle,"
+265,1,Something_Ricked_This_Way_Comes,[ Cheers and applause ]
+266,1,Something_Ricked_This_Way_Comes,Mr. Needful: Rick? Summer?
+267,1,Something_Ricked_This_Way_Comes,[ Audience groans ]
+268,1,Something_Ricked_This_Way_Comes,Rick: Stupid mother[BLEEP ]
+269,1,Something_Ricked_This_Way_Comes,"Summer: You stupid bitch,"
+270,1,Something_Ricked_This_Way_Comes,"Rick: Stupid mother[BLEEP ]
+How do you like that?
+How do you like that?"
+271,1,Something_Ricked_This_Way_Comes,"Summer: [ Grunts ]
+[ Groans ]"
+272,1,Something_Ricked_This_Way_Comes,Mr. Needful: W-w-why?
+273,1,Something_Ricked_This_Way_Comes,"Summer: Because sometimes what you really need is for someone else to pay a horrible price,"
+274,1,Something_Ricked_This_Way_Comes,[ Whimpers ]
+275,1,Something_Ricked_This_Way_Comes,Summer: [ Spits ]
+276,1,Something_Ricked_This_Way_Comes,"Rick: We did it,"
+277,1,Something_Ricked_This_Way_Comes,"Summer: Yeah, bro,"
+278,1,Something_Ricked_This_Way_Comes,"Rick: It was totally worth it,
+We did it,
+We just pulled it off,"
+279,1,Something_Ricked_This_Way_Comes,"Summer: Yeah, bro, Yeah,"
+280,1,Something_Ricked_This_Way_Comes,"♪ Bitch, please if the only thing you cats did ♪
+♪ was came out to play ♪
+♪ Stay out my way, mother ♪
+♪ First we gonna rock, then we gonna roll ♪
+♪ Then we let it pop, don't let it go ♪
+♪ X gonna give it to ya
+He gonna give it to ya ♪
+♪ X gonna give it to ya
+He gonna give it to ya ♪
+♪ First we gonna rock, then we gonna roll ♪
+♪ Then we let it pop, don't let it go ♪
+♪ X gonna give it to ya, he gonna give it to ya ♪
+♪ X gonna give it to ya, he gonna give it to ya ♪
+♪ Ain't never gave nothing to me ♪
+"
