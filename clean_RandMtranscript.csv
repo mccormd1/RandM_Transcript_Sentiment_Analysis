@@ -73,7 +73,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 71,72,1,Pilot,1,1, Morty:,"Jessica. (Jessica hears Morty and looks back, confused, not sure who’s saying her name)"
 72,73,1,Pilot,1,1, Mr. Goldenfold:,"Okay, good. It's time for the quiz."
 73,74,1,Pilot,1,1, Class:,Awwwwww.
-74,75,1,Pilot,1,1," Mr. Goldenfold: Yeah, you know what?! Aw, too bad! Tough! First row, take one. Pass it back for me. The stakes are high in this room. (Morty stares at the quiz; the numbers on the quiz jumble together as Morty falls asleep) There's crucial things happening here every day. People getting smarter. Some of y'all getting dumber. Some of y'all ain't gonna see 3:",00. (Morty falls into a dream world filled with large number-shaped blocks; Jessica steps out from behind some of the numbers)
+74,75,1,Pilot,1,1, Mr. Goldenfold:,"Yeah, you know what?! Aw, too bad! Tough! First row, take one. Pass it back for me. The stakes are high in this room. (Morty stares at the quiz; the numbers on the quiz jumble together as Morty falls asleep) There's crucial things happening here every day. People getting smarter. Some of y'all getting dumber. Some of y'all ain't gonna see 3:00. (Morty falls into a dream world filled with large number-shaped blocks; Jessica steps out from behind some of the numbers)"
 75,76,1,Pilot,1,1, Jessica:,"Hi, Morty."
 76,77,1,Pilot,1,1, Morty:,"Whoa! Hi, Jessica."
 77,78,1,Pilot,1,1, Jessica:,"Can I show these to you? (Jessica opens her shirt, showing Morty her breasts)"
@@ -553,7 +553,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 551,552,1,Lawnmower_Dog,2,2, Monster Teacher:,"Ah, well, Mr. Terry, why don't you tell the whole class the proper wordplay to use when one is chasing one's victim through a pumpkin patch?"
 552,553,1,Lawnmower_Dog,2,2, Scary Terry:,"Oh, uh, um ... ""Bitch."""
 553,554,1,Lawnmower_Dog,2,2,Scene Action:, (The class laughs at him)
-554,555,1,Lawnmower_Dog,2,2," Monster Teacher: Oh, come on, Terry, you can't think of a pun involving pumpkins, bitch? Morty:","Hey, leave him alone!"
+554,555,1,Lawnmower_Dog,2,2, Monster Teacher:,"Oh, come on, Terry, you can't think of a pun involving pumpkins, bitch? Morty: Hey, leave him alone!"
 555,556,1,Lawnmower_Dog,2,2, Rick:,"Yeah, this is a bunch of bullcrap. Who cares what stupid pun you make when you kill someone? Why don't you let the poor guy say whatever he wants?"
 556,557,1,Lawnmower_Dog,2,2, Monster Teacher:,"Well, I never! I-I see no reason to stand here and take this."
 557,558,1,Lawnmower_Dog,2,2, Rick:,"You're putting too much pressure on yourself, scary Terry. You know, I mean, y-you're perfectly scary enough as it is."
@@ -2017,8 +2017,8 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2015,2016,1,Raising_Gazorpazorp,7,7,Gazorpazorpian:,"We assume you are from a more primitive world, where men are still permitted to be servants, If he is a rogue male, tell us now and we will kill him,"
 2016,2017,1,Raising_Gazorpazorp,7,7,Summer:,"He's my slave, He's my slave, He's definitely my slave,"
 2017,2018,1,Raising_Gazorpazorp,7,7,Rick:,"[ Chokes ] Ugh! Ohh! Oh-ho-ho! Oh, boy, What's the opposite of ""Wubba-lubba-dub-dubs""? Am I right, ladies and gentlemen? Are you guys kidding me?"
-2018,2019,1,Raising_Gazorpazorp,7,7,"Morty: Oh, Morty Jr,! you're gonna be a special little guy, aren't you? You -- oh, yeah, You're my special little guy, Ohh, Ohh! Ha ha! Mortimer Smith Jr:","Da,"
-2019,2020,1,Raising_Gazorpazorp,7,7,"Morty: What was that, Morty Jr,? Were you gonna say, ""Dada""? Say, ""Dada,"" Mortimer Smith Jr:",Death!
+2018,2019,1,Raising_Gazorpazorp,7,7,Morty:,"Oh, Morty Jr,! you're gonna be a special little guy, aren't you? You -- oh, yeah, You're my special little guy, Ohh, Ohh! Ha ha! Mortimer Smith Jr: Da,"
+2019,2020,1,Raising_Gazorpazorp,7,7,Morty:,"What was that, Morty Jr,? Were you gonna say, ""Dada""? Say, ""Dada,"" Mortimer Smith Jr: Death!"
 2020,2021,1,Raising_Gazorpazorp,7,7,Morty:,"""Dada,"""
 2021,2022,1,Raising_Gazorpazorp,7,7,Mortimer Smith Jr:,Damnation!
 2022,2023,1,Raising_Gazorpazorp,7,7,Morty:,"Um ""Dada""?"
@@ -2034,7 +2034,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2032,2033,1,Raising_Gazorpazorp,7,7,Summer:,"You speak when you're spoken to, ding-a-ling! It's true, though -- one of your babies was born on earth,"
 2033,2034,1,Raising_Gazorpazorp,7,7,Mar-sha:,Are you the ruler of this Earth?
 2034,2035,1,Raising_Gazorpazorp,7,7,Summer:,"How did you know? The quality of your top,"
-2035,2036,1,Raising_Gazorpazorp,7,7,Summer: Do you love it? Mar-sha:,"I love it, - I'm here if you need to talk, - I'm here if you need to talk,"
+2035,2036,1,Raising_Gazorpazorp,7,7,Summer:,"Do you love it? Mar-sha: I love it, - I'm here if you need to talk, - I'm here if you need to talk,"
 2036,2037,1,Raising_Gazorpazorp,7,7,Summer:,"I'm here if you need to talk,"
 2037,2038,1,Raising_Gazorpazorp,7,7,Mar-sha:,"If the Gazorpian is male, your earth is in grave danger, We will give you passage back home so it can be terminated, But first, Mojitos,"
 2038,2039,1,Raising_Gazorpazorp,7,7,Rick:,"We don't have time for Mojitos,"
@@ -2046,7 +2046,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2044,2045,1,Raising_Gazorpazorp,7,7,Scene Action:,[ All gasp ]
 2045,2046,1,Raising_Gazorpazorp,7,7,Mar-sha:,I cannot believe my ears!
 2046,2047,1,Raising_Gazorpazorp,7,7,Rick:,"[ Farting continues ] Whoo, boy! Who let the frogs out, huh?"
-2047,2048,1,Raising_Gazorpazorp,7,7,Summer: Grandpa! Mar-sha:,"Grandpa? That sounds patriarchal! It means ""Father of fathers,"" Then this one is not your slave, and your Earth is yet another planet dominated by men,"
+2047,2048,1,Raising_Gazorpazorp,7,7,Summer:,"Grandpa! Mar-sha: Grandpa? That sounds patriarchal! It means ""Father of fathers,"" Then this one is not your slave, and your Earth is yet another planet dominated by men,"
 2048,2049,1,Raising_Gazorpazorp,7,7,Rick:,"It's not dominated by us, okay? On Earth, men and women are equals,"
 2049,2050,1,Raising_Gazorpazorp,7,7,Summer:,Equals?! We make 70% of your salary for the same job!
 2050,2051,1,Raising_Gazorpazorp,7,7,Mar-sha:,Seize them!
@@ -2071,7 +2071,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2069,2070,1,Raising_Gazorpazorp,7,7,Jerry:,"Nice, [ Indistinct conversations ]"
 2070,2071,1,Raising_Gazorpazorp,7,7,Veronica:,"So, what are you in for?"
 2071,2072,1,Raising_Gazorpazorp,7,7,Rick:,"Because I got -- I got a big, you know, penis between my legs, What -- what -- what are you in for?"
-2072,2073,1,Raising_Gazorpazorp,7,7,"Veronica: The worst crime a female can commit, Mar-sha:","Veronica Ann Bennett, I find you guilty of having bad bangs,"
+2072,2073,1,Raising_Gazorpazorp,7,7,Veronica:,"The worst crime a female can commit, Mar-sha: Veronica Ann Bennett, I find you guilty of having bad bangs,"
 2073,2074,1,Raising_Gazorpazorp,7,7,Gazorpazorpian:,You ever notice the ones with bad bangs always have three names?
 2074,2075,1,Raising_Gazorpazorp,7,7,Mar-sha:,You are hereby sentenced to the silent treatment!
 2075,2076,1,Raising_Gazorpazorp,7,7,Scene Action:,[ All gasp ]
@@ -2173,11 +2173,11 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2171,2172,1,Rixty_Minutes,8,8,Jerry:,"Okay, I've got an idea, Rick, You show us your concept of good TV, and we'll crap all over that,"
 2172,2173,1,Rixty_Minutes,8,8,Rick:,"Thought you'd never ask,"
 2173,2174,1,Rixty_Minutes,8,8,Jerry:,"Hey,"
-2174,2175,1,Rixty_Minutes,8,8,"Morty: Oh, cool, Is that crystallized xanthanite? It conducts electrons across dimensions, Rick:","20% accurate as usual, Morty, The important thing being, I just upgraded our cable package with programing from every conceivable reality,"
+2174,2175,1,Rixty_Minutes,8,8,Morty:,"Oh, cool, Is that crystallized xanthanite? It conducts electrons across dimensions, Rick: 20% accurate as usual, Morty, The important thing being, I just upgraded our cable package with programing from every conceivable reality,"
 2175,2176,1,Rixty_Minutes,8,8,Jerry:,"Wait, Does that mean we get Showtime Extreme?"
 2176,2177,1,Rixty_Minutes,8,8,Rick:,How about Showtime Extreme in a world where man evolved from corn?
 2177,2178,1,Rixty_Minutes,8,8,TV Corn 1:,"We're not so different, We're both corn of action,"
-2178,2179,1,Rixty_Minutes,8,8,TV: Corn 2:,"Yeah, but one of us is dead is dead corn!"
+2178,2179,1,Rixty_Minutes,8,8,TV:,"Corn 2:Yeah, but one of us is dead is dead corn!"
 2179,2180,1,Rixty_Minutes,8,8,Summer:,Boring
 2180,2181,1,Rixty_Minutes,8,8,Rick:,"Summer you just spent three months watching a man chose a fake wife,"
 2181,2182,1,Rixty_Minutes,8,8,Jerry:,"So, what, it'd be better if the people were corn?"
@@ -2185,7 +2185,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2183,2184,1,Rixty_Minutes,8,8,Glen:,"This shit is delicious,"
 2184,2185,1,Rixty_Minutes,8,8,Rick:,"A movie about a guy eating shit, A violent antique show,"
 2185,2186,1,Rixty_Minutes,8,8,Letterman:,"It's a pleasure to have you,"
-2186,2187,1,Rixty_Minutes,8,8,"Actor Jerry: The pleasure's all mine,   Rick:","Letterman from a timeline where Jerry's famous,"
+2186,2187,1,Rixty_Minutes,8,8,Actor Jerry:,"The pleasure's all mine,   Rick: Letterman from a timeline where Jerry's famous,"
 2187,2188,1,Rixty_Minutes,8,8,Jerry:,Wait!
 2188,2189,1,Rixty_Minutes,8,8,Beth:,What in the hell?
 2189,2190,1,Rixty_Minutes,8,8,Rick:,"I agree, Where is this going?"
@@ -2201,7 +2201,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2199,2200,1,Rixty_Minutes,8,8,Jerry:,"Rick, will you please go back to me on ""David Letterman""?"
 2200,2201,1,Rixty_Minutes,8,8,Rick:,"Infinity's a big number, Jerry, I don't remember the channel,"
 2201,2202,1,Rixty_Minutes,8,8,Summer:,Ah! Go back! Go back!
-2202,2203,1,Rixty_Minutes,8,8,"Rick: Geez, Actor Jerry:","You speak the true-true,"
+2202,2203,1,Rixty_Minutes,8,8,Rick:,"Geez, Actor Jerry: You speak the true-true,"
 2203,2204,1,Rixty_Minutes,8,8,Summer:,"Oh, my God, Dad's in ""Cloud Atlas""!"
 2204,2205,1,Rixty_Minutes,8,8,Jerry:,"I'm in ""Cloud Atlas""! What's ""Cloud Atlas""?"
 2205,2206,1,Rixty_Minutes,8,8,Actor Jerry:,"sometimes, small true-true different than the big true-true,"
@@ -2252,7 +2252,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2250,2251,1,Rixty_Minutes,8,8,Mr. Sneezy:,"I'm Mr, Sneezy,"
 2251,2252,1,Rixty_Minutes,8,8,Morty:,"Huh, seems like TV from other dimensions has a somewhat looser feel to it,"
 2252,2253,1,Rixty_Minutes,8,8,Rick:,"Yeah, it's got an almost improvisational tone,"
-2253,2254,1,Rixty_Minutes,8,8,"Trailer Announcer: It's in theaters now, Coming this Summer, Two brothers in a van, and then a meteor hits, And they ran as fast as they could from giant cat monsters, And then a giant tornado came, And that's when things got knocked into 12th gear, A Mexican Armada shows up, with weapons made from t-tomatoes, And you better bet your bottom dollar that these two brothers know how to handle business in ""Alien invasion tomato monster"" Mexican Armada Brothers, who are just regular brothers, running in a van from an asteroid and all sort of things:","The movie,"" Hold on, There's more, Old women are coming, and they're also in the movie, And they're gonna come and cross attack these two brothers, But let's get back to the brothers, because they're -- they have a strong bond, You don't want to know about it here, but I'll tell you one thing, The moon -- it comes crashing into Earth, And what do you do then? It's two brother and -- and they're gonna -- it's called ""Two brothers,"" ""Two brothers,"" It's just called ""Two brothers,"""
+2253,2254,1,Rixty_Minutes,8,8,Trailer Announcer:,"It's in theaters now, Coming this Summer, Two brothers in a van, and then a meteor hits, And they ran as fast as they could from giant cat monsters, And then a giant tornado came, And that's when things got knocked into 12th gear, A Mexican Armada shows up, with weapons made from t-tomatoes, And you better bet your bottom dollar that these two brothers know how to handle business in ""Alien invasion tomato monster"" Mexican Armada Brothers, who are just regular brothers, running in a van from an asteroid and all sort of things: The movie,"" Hold on, There's more, Old women are coming, and they're also in the movie, And they're gonna come and cross attack these two brothers, But let's get back to the brothers, because they're -- they have a strong bond, You don't want to know about it here, but I'll tell you one thing, The moon -- it comes crashing into Earth, And what do you do then? It's two brother and -- and they're gonna -- it's called ""Two brothers,"" ""Two brothers,"" It's just called ""Two brothers,"""
 2254,2255,1,Rixty_Minutes,8,8,Beth:,"Holy crap, I am winning a Nobel Prize,"
 2255,2256,1,Rixty_Minutes,8,8,Jerry:,"Come on, Time's up, I'm taming a lion, No, wait, There are film cameras, I might be a lion tamer in a movie, You get the idea, I work with lions,"
 2256,2257,1,Rixty_Minutes,8,8,Scene Action:,[ Beeping ]
@@ -2288,13 +2288,13 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2286,2287,1,Rixty_Minutes,8,8,Fakedoor salesman:,"Hey, everybody, So, this is my house, Just made a sandwich -- peanut butter and jelly, Still here, still selling fake doors,"
 2287,2288,1,Rixty_Minutes,8,8,Morty:,What?
 2288,2289,1,Rixty_Minutes,8,8,Rick:,"Oh, my god, It's still the commercial,"
-2289,2290,1,Rixty_Minutes,8,8,"Fakedoor salesman: We have fake doors like you wouldn't believe, What are you worried about? Come get fake doors, Call us up and order some fake doors today, Don't even hesitate, don't even worry, - and don't even -- Rick:","All right, I'm bored, Change it,"
+2289,2290,1,Rixty_Minutes,8,8,Fakedoor salesman:,"We have fake doors like you wouldn't believe, What are you worried about? Come get fake doors, Call us up and order some fake doors today, Don't even hesitate, don't even worry, - and don't even -- Rick: All right, I'm bored, Change it,"
 2290,2291,1,Rixty_Minutes,8,8,Morty:,"Wait, wait, Rick, Hold on, hold on,"
 2291,2292,1,Rixty_Minutes,8,8,Fakedoor salesman:,"That's our slogan, See it on the bottom of the screen below our name, Here's another slogan right below that one, What are you worried about? Come get fake doors, Get in here quick, get out quicker with an arm of fake doors in your arms,"
 2292,2293,1,Rixty_Minutes,8,8,Morty:,"Okay, okay, you can change it,"
 2293,2294,1,Rixty_Minutes,8,8,Fakedoor salesman:,"Don't even worry about it,"
 2294,2295,1,Rixty_Minutes,8,8,Scene Action:,[ Yawn ]
-2295,2296,1,Rixty_Minutes,8,8,"Gazorpazorpfield: I hate mamumanums-days, and I really could go for some enchiladas, Morty:","Hey, Rick, that's pretty cool, It's just like garfield, only instead it's Gazorpazorpfield,"
+2295,2296,1,Rixty_Minutes,8,8,Gazorpazorpfield:,"I hate mamumanums-days, and I really could go for some enchiladas, Morty: Hey, Rick, that's pretty cool, It's just like garfield, only instead it's Gazorpazorpfield,"
 2296,2297,1,Rixty_Minutes,8,8,Rick:,"Hey, isn't Gazorpazorp where -- where those sex robots came from? Remember that whole thing?"
 2297,2298,1,Rixty_Minutes,8,8,Morty:,"Yeah, Hey, that's a pretty -- pretty -- that's true, That's right,"
 2298,2299,1,Rixty_Minutes,8,8,Rick:,"Yeah, Let's watch some more Gazorpazorpfield,"
@@ -2330,7 +2330,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2328,2329,1,Rixty_Minutes,8,8,Morty:,What's going on?
 2329,2330,1,Rixty_Minutes,8,8,Jerry:,"Well, your mother and I are gonna be spending some time apart, Morty, And your sister found out she was an unwanted pregnancy,"
 2330,2331,1,Rixty_Minutes,8,8,Morty:,What?
-2331,2332,1,Rixty_Minutes,8,8,"Rick: Speaking of what, Morty what should we watch next? What about this? Detective:","Babylegs, you're a good detective, But not good enough, because of your baby legs, So I'm partnering you up with regular legs,"
+2331,2332,1,Rixty_Minutes,8,8,Rick:,"Speaking of what, Morty what should we watch next? What about this? Detective: Babylegs, you're a good detective, But not good enough, because of your baby legs, So I'm partnering you up with regular legs,"
 2332,2333,1,Rixty_Minutes,8,8,Regular Legs:,"Hey, there,"
 2333,2334,1,Rixty_Minutes,8,8,Baby Legs:,"Detective, I'm -- this is upsetting to me, because I feel like I don't need no regular-leg partner,"
 2334,2335,1,Rixty_Minutes,8,8,Detective:,"Babylegs, don't talk back to me, Good luck, you two, There's a criminal to kill,"
@@ -2370,7 +2370,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2368,2369,1,Rixty_Minutes,8,8,Lawyer:,"Mrs, Sullivan, Ohh, "
 2369,2370,1,Rixty_Minutes,8,8,Trailer Announcer:,Between one guy who can't get a break 
 2370,2371,1,Rixty_Minutes,8,8,Lawyer:,"there's something about you, Mrs, Sullivan, "
-2371,2372,1,Rixty_Minutes,8,8,"Trailer Announcer: And nine cats who break all the rules, ""Last will and testi-meow:","Weekend at dead cat lady's house II,"""
+2371,2372,1,Rixty_Minutes,8,8,Trailer Announcer:,"And nine cats who break all the rules, ""Last will and testi-meow: Weekend at dead cat lady's house II,"""
 2372,2373,1,Rixty_Minutes,8,8,Jerry:,"Well, somebody in hollywood just lost their job,"
 2373,2374,1,Rixty_Minutes,8,8,Trailer Announcer:,"Written and directed by Jerry Smith,"
 2374,2375,1,Rixty_Minutes,8,8,Jerry:,"I wrote and directed that? What am I, nuts?"
@@ -2419,18 +2419,18 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2417,2418,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,"Maybe Rick can give you a ride, I'm helping Morty with science,"
 2418,2419,1,Something_Ricked_This_Way_Comes,9,9,Rick:,"I'm busy,"
 2419,2420,1,Something_Ricked_This_Way_Comes,9,9,Summer:,Doing what?
-2420,2421,1,Something_Ricked_This_Way_Comes,9,9,"Rick: Uh, anything else, Robot:",What is my purpose?
+2420,2421,1,Something_Ricked_This_Way_Comes,9,9,Rick:,"Uh, anything else, Robot: What is my purpose?"
 2421,2422,1,Something_Ricked_This_Way_Comes,9,9,Rick:,"You pass butter,"
 2422,2423,1,Something_Ricked_This_Way_Comes,9,9,Robot:,"Oh, my God,"
 2423,2424,1,Something_Ricked_This_Way_Comes,9,9,Rick:,"Yeah, welcome to the club, pal,"
 2424,2425,1,Something_Ricked_This_Way_Comes,9,9,Rick:,Since when you have a job?
 2425,2426,1,Something_Ricked_This_Way_Comes,9,9,Summer:,"Since last week, It's part-time at this little vintage thrift store, My boss is this really smart, eccentric old man that treats me nice and values me,"
 2426,2427,1,Something_Ricked_This_Way_Comes,9,9,Rick:,"Meow, Can't wait to meet this Fascinating character,"
-2427,2428,1,Something_Ricked_This_Way_Comes,9,9,"Summer: Please don't, Goldenfold:","Oh, Well, when did this stop being jamba juice?"
+2427,2428,1,Something_Ricked_This_Way_Comes,9,9,Summer:,"Please don't, Goldenfold: Oh, Well, when did this stop being jamba juice?"
 2428,2429,1,Something_Ricked_This_Way_Comes,9,9,Mr. Needful:,"I've just recently opened for business, mister, um, Goldenfold,"
 2429,2430,1,Something_Ricked_This_Way_Comes,9,9,Goldenfold:,"You know my name? That's disarming,"
-2430,2431,1,Something_Ricked_This_Way_Comes,9,9,"Mr. Needful: I also know you long for female company, Goldenfold:","You know, it has been lonely since the divorce, Some voids can't be filled with jamba juice,"
-2431,2432,1,Something_Ricked_This_Way_Comes,9,9,"Mr. Needful: This aftershave makes a man quite irresistible to women, Free of charge, One never pays here -- not with money, Goldenfold:","Nothing to read into there, Thanks!"
+2430,2431,1,Something_Ricked_This_Way_Comes,9,9,Mr. Needful:,"I also know you long for female company, Goldenfold: You know, it has been lonely since the divorce, Some voids can't be filled with jamba juice,"
+2431,2432,1,Something_Ricked_This_Way_Comes,9,9,Mr. Needful:,"This aftershave makes a man quite irresistible to women, Free of charge, One never pays here -- not with money, Goldenfold: Nothing to read into there, Thanks!"
 2432,2433,1,Something_Ricked_This_Way_Comes,9,9,Summer:,"Sorry I'm late, Mr, Needful, This is my grandpa, Rick, He was just leaving,"
 2433,2434,1,Something_Ricked_This_Way_Comes,9,9,Rick:,"Huh,"
 2434,2435,1,Something_Ricked_This_Way_Comes,9,9,Mr. Needful:,"Tell me, Rick, what do you desire?"
@@ -2477,7 +2477,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2475,2476,1,Something_Ricked_This_Way_Comes,9,9,Rick:,"It's not,"
 2476,2477,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,"Shut up, Rick, I don't care what anyone says, If I can be a planet, it can be a planet again, Planet, Planet, planet, planet,"
 2477,2478,1,Something_Ricked_This_Way_Comes,9,9,Rick:,"Stay scientific, Jerry,"
-2478,2479,1,Something_Ricked_This_Way_Comes,9,9,"Goldenfold: This aftershave made women want me, but it also made me impotent! Mr. Needful:","A price for everything, Mr, Goldenfold, A price for everything, [ Laughs evilly ]"
+2478,2479,1,Something_Ricked_This_Way_Comes,9,9,Goldenfold:,"This aftershave made women want me, but it also made me impotent! Mr. Needful: A price for everything, Mr, Goldenfold, A price for everything, [ Laughs evilly ]"
 2479,2480,1,Something_Ricked_This_Way_Comes,9,9,Goldenfold:,"Oh, my God! How could I not see this coming?! [ Sobbing ] My lust! My greed! I deserved this!"
 2480,2481,1,Something_Ricked_This_Way_Comes,9,9,Rick:,"This serum should counteract the negative effects,"
 2481,2482,1,Something_Ricked_This_Way_Comes,9,9,Goldenfold:,"Holy cats! Ladies, let's get out of here, I haven't learned a thing!"
@@ -2516,14 +2516,14 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2514,2515,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,What the hell?!
 2515,2516,1,Something_Ricked_This_Way_Comes,9,9,Scene Action:,"[ Both groaning ] [ Ting! ] [ Hisses, buzzes ]"
 2516,2517,1,Something_Ricked_This_Way_Comes,9,9,King Flippy Nips:,"I'm King Flippy Nips, ruler of Pluto, We discovered you quite by accident during routine surveillance of your world, You really gave it to those guys at NASA,"
-2517,2518,1,Something_Ricked_This_Way_Comes,9,9,"Jerry: I was -- you know, sometimes science is about conviction, King Flippy Nips:","It'd like to introduce you to a few people that very much agree with you,"
+2517,2518,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,"I was -- you know, sometimes science is about conviction, King Flippy Nips: It'd like to introduce you to a few people that very much agree with you,"
 2518,2519,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,"Oh, I..."
 2519,2520,1,Something_Ricked_This_Way_Comes,9,9,King Flippy Nips:,"Plutonians, Jerry Smith is a scientist from earth, where he's creating a model of our solar system, Jerry, tell Pluto about your decision,"
 2520,2521,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,"[ Clears throat ] Um... Pluto's a planet,"
 2521,2522,1,Something_Ricked_This_Way_Comes,9,9,Scene Action:,[ Cheers and applause ]
 2522,2523,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,"Pluto's a [BLEEP] planet, bitch!"
 2523,2524,1,Something_Ricked_This_Way_Comes,9,9,Morty:,"Oh, man, This is definitely gonna go to his head,"
-2524,2525,1,Something_Ricked_This_Way_Comes,9,9,"Mr. Needful: If it's athletic prize you desire, Principal Vagina, I might -- Principal Vagina:","I'll take it,"
+2524,2525,1,Something_Ricked_This_Way_Comes,9,9,Mr. Needful:,"If it's athletic prize you desire, Principal Vagina, I might -- Principal Vagina: I'll take it,"
 2525,2526,1,Something_Ricked_This_Way_Comes,9,9,Mr. Needful:,B-but I haven't even --
 2526,2527,1,Something_Ricked_This_Way_Comes,9,9,Principal Vagina:,"Thank you very, very much, Great store, Great place, Bye,"
 2527,2528,1,Something_Ricked_This_Way_Comes,9,9,Mr. Needful:,"Huh, Okay, I must say, Summer, I thought your grandfather's outburst would have disrupted business, but this is the best weekend I've had since Salem,"
@@ -2602,7 +2602,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2600,2601,1,Something_Ricked_This_Way_Comes,9,9,Morty:,"Dad, their whole planet is dying,"
 2601,2602,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,"Ha! You called it a planet, Checkmate,"
 2602,2603,1,Something_Ricked_This_Way_Comes,9,9,King Flippy Nips:,"What's up, Pluto? [ Cheers and applause ] [ Classical music plays ] Mr, Smith, please tell my friend here what you just told me, Go on,"
-2603,2604,1,Something_Ricked_This_Way_Comes,9,9,"Jerry: My very eager mother just served us nine pickles, and the ""pickles"" is Pluto, Plutonian:","My God, the man's a genius,"
+2603,2604,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,"My very eager mother just served us nine pickles, and the ""pickles"" is Pluto, Plutonian: My God, the man's a genius,"
 2604,2605,1,Something_Ricked_This_Way_Comes,9,9,Morty:,"Um, excuse me,"
 2605,2606,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,"Morty, what?"
 2606,2607,1,Something_Ricked_This_Way_Comes,9,9,Morty:,"Dad, what did you think about the recent report published by the Pluto science reader linking Pluto-quakes, sinkholes, and surface shrinkage to deep-core Plutonium drilling?"
@@ -2625,7 +2625,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2623,2624,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,What?
 2624,2625,1,Something_Ricked_This_Way_Comes,9,9,King Flippy Nips:,"I can see you're confused, Pluto-namo bay is a military prison -- a sort of play on words,"
 2625,2626,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,"Did he call you ""father""? Scroopy Noopers, the anti-planet nut job, is your son?"
-2626,2627,1,Something_Ricked_This_Way_Comes,9,9,"King Flippy Nips: The young eat the old if you let them, Jerry, Pluto is a cold, cold celestial dwarf, Jerry:",It's a what?
+2626,2627,1,Something_Ricked_This_Way_Comes,9,9,King Flippy Nips:,"The young eat the old if you let them, Jerry, Pluto is a cold, cold celestial dwarf, Jerry: It's a what?"
 2627,2628,1,Something_Ricked_This_Way_Comes,9,9,King Flippy Nips:,"Huh? Oh, planet, [ Laughs ] ""Pluto is a cold, cold planet,"" That's what I meant, Knock them dead out there, you,"
 2628,2629,1,Something_Ricked_This_Way_Comes,9,9,Jerry:,"Pluto is... [ Sighs ] Not a planet,"
 2629,2630,1,Something_Ricked_This_Way_Comes,9,9,Scene Action:,[ Shouting ]
@@ -2721,7 +2721,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2719,2720,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Morty (C-137):,"Geez, Rick! Wh-what is this place?"
 2720,2721,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Rick (C-137):,The citadel of Ricks. It’s the secret headquarters for the council of Ricks.
 2721,2722,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Morty (C-137):,Council of Ricks? 
-2722,2723,1,Close_Rick-counters_of_the_Rick_Kind,10,10,"Rick (C-137): As you know, Morty, I’ve got a lotta enemies in the universe that consider my genius a threat. Galactic terrorists, a few sub-galactic dictators, most of the entire intergalactic government:",wh-wherever you find people with heads up their asses someone wants a piece of your grandpa. And a lot of versions of me on different timelines had the same problem. So a few thousand versions of me had the INGENIOUS IDEA OF BANDING TOGETHER like a herd of cattle or a school of fish or those people who answer questions on yahoo answers.
+2722,2723,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Rick (C-137):,"As you know, Morty, I’ve got a lotta enemies in the universe that consider my genius a threat. Galactic terrorists, a few sub-galactic dictators, most of the entire intergalactic government: wh-wherever you find people with heads up their asses someone wants a piece of your grandpa. And a lot of versions of me on different timelines had the same problem. So a few thousand versions of me had the INGENIOUS IDEA OF BANDING TOGETHER like a herd of cattle or a school of fish or those people who answer questions on yahoo answers."
 2723,2724,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Morty (C-137):,"Hey, what do you know? It’s a cowboy version of me!"
 2724,2725,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Rick (C-137):,"Geez, you’re easy to impress. Yeah, most timelines have a Rick and most Ricks have a Morty. This place is a real who’s-who of who’s you and me."
 2725,2726,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Rick Salesman 1:,"Turn your boring old Morty into a hot fashion statement, with some Morty dazzlers!"
@@ -2928,7 +2928,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 2926,2927,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Rick:,"I get it. So you want me to team up with you to take down the council of Ricks, right? Is that where you’re going with this? ‘Cause that’s where I’d be going."
 2927,2928,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Evil Rick:,"Please. I think I’m doing pretty good on my own. I’m simply going to download the contents of your brain, and then kill you."
 2928,2929,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Scene Action:,[Trans. Rick’s garage. Doofus Rick is mixing chemicals and Jerry is watching]
-2929,2930,1,Close_Rick-counters_of_the_Rick_Kind,10,10,"Doofus Rick: Okay, if we add a little more titanium nitrate, and just a tad of chlorified tartrate:",ovenless brownies! 
+2929,2930,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Doofus Rick:,"Okay, if we add a little more titanium nitrate, and just a tad of chlorified tartrate: ovenless brownies! "
 2930,2931,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Scene Action:,"(Jerry takes a brownie, eats it and smiles)"
 2931,2932,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Jerry:,It’s incredible what a gifted mind can accomplish when priorities are in order!
 2932,2933,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Doofus Rick:,"Well, come on, I can’t take all the credit, Jerry. It was your idea. C’mere Jerry!"
@@ -3071,7 +3071,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 3069,3070,1,Ricksy_Business,11,11,Jerry:,"Happy to help... Rose,"
 3070,3071,1,Ricksy_Business,11,11,Scene Action:,[ Giggles ]
 3071,3072,1,Ricksy_Business,11,11,Tammy:,"I love watching bukkake, I mean, like, I don't know if I personally would ever do it,,,"
-3072,3073,1,Ricksy_Business,11,11,Summer: Brad! Hey! Brad:,"Yo,"
+3072,3073,1,Ricksy_Business,11,11,Summer:,"Brad! Hey! Brad: Yo,"
 3073,3074,1,Ricksy_Business,11,11,Tammy:,"Brad is here! Quick, make my hair look drunk,"
 3074,3075,1,Ricksy_Business,11,11,Brad:,"Check it out, Tammy's already drunk, Cool,"
 3075,3076,1,Ricksy_Business,11,11,Birdperson:,"The beacon was activated, Who is in danger?"
@@ -3085,7 +3085,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 3083,3084,1,Ricksy_Business,11,11,Rick:,"Uh... people? Mm, six, Yo! What up, my glip glops?!"
 3084,3085,1,Ricksy_Business,11,11,Morty:,"Oh, man!"
 3085,3086,1,Ricksy_Business,11,11,Scene Action:,[ Electronic music plays ] [ Breathing heavily ]
-3086,3087,1,Ricksy_Business,11,11,"Oh! Morty: Y-y-you know there's a garbage, right? Hey, uh, what the hell?! Alien:","Ooh, That's why you never invite a Floopy Doop and a Shmoopy Doop to the same party,"
+3086,3087,1,Ricksy_Business,11,11,Oh! Morty:,"Y-y-you know there's a garbage, right? Hey, uh, what the hell?! Alien: Ooh, That's why you never invite a Floopy Doop and a Shmoopy Doop to the same party,"
 3087,3088,1,Ricksy_Business,11,11,Scene Action:,[ Bed springs squeaking ]
 3088,3089,1,Ricksy_Business,11,11,Morty:,"Oh, oh, g-- oh, that's disgusting! You guys are in my parents' bed!"
 3089,3090,1,Ricksy_Business,11,11,Alien:,"Oh, Sorry, I'm not feeling too well, I just needed to lie down for a bit,"
@@ -3098,7 +3098,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 3096,3097,1,Ricksy_Business,11,11,Rick:,Morty! Have you met Gearhead?
 3097,3098,1,Ricksy_Business,11,11,Morty:,"Hey, how's --"
 3098,3099,1,Ricksy_Business,11,11,Rick:,"Morty here, he -- he would love to hear all about the gear wars,"
-3099,3100,1,Ricksy_Business,11,11,"Gearhead: How familiar are you with the gear wars, exactly? Morty:","Uh... not at all,"
+3099,3100,1,Ricksy_Business,11,11,Gearhead:,"How familiar are you with the gear wars, exactly? Morty: Uh... not at all,"
 3100,3101,1,Ricksy_Business,11,11,Gearhead:,"Oh, boy, I envy you, Okay, it was about 754 years ago,,,"
 3101,3102,1,Ricksy_Business,11,11,Rick:,"Oh, hey, Morty! H-have you -- have you met my buddy Scropon?"
 3102,3103,1,Ricksy_Business,11,11,Morty:,"Not again, Rick, That last guy droned on for 20 minutes, you know? And meanwhile, the whole house is being destroyed!"
@@ -3370,7 +3370,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 3368,3369,2,A_Rickle_in_Time,1,12,Morty:,Phew... 
 3369,3370,2,A_Rickle_in_Time,1,12,Summer:,*Exhales* 
 3370,3371,2,A_Rickle_in_Time,1,12,Scene Action:,--------------> 
-3371,3372,2,A_Rickle_in_Time,1,12,"Rick:  Man that guy is the Red Grin Grumble to pretending he knows what's going on. (Morty and Summer laugh) Oh you agree, huh? (Summer: Funny) You like that Red Grin Grumble reference? (Summer:","Yeah.) Well guess what? I made him up. You really are your father's children. Think for yourselves, don't be sheep. "
+3371,3372,2,A_Rickle_in_Time,1,12,Rick:,"Man that guy is the Red Grin Grumble to pretending he knows what's going on. (Morty and Summer laugh) Oh you agree, huh? (Summer: Funny) You like that Red Grin Grumble reference? (Summer: Yeah.) Well guess what? I made him up. You really are your father's children. Think for yourselves, don't be sheep. "
 3372,3373,2,A_Rickle_in_Time,1,12,Scene Action:,[Intro sequence] 
 3373,3374,2,A_Rickle_in_Time,1,12,Scene Action:,[Trans. Outside Morty's house] 
 3374,3375,2,A_Rickle_in_Time,1,12,Scene Action:,(Mr. Benson is being loaded into an ambulance.) 
@@ -3627,7 +3627,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 3625,3626,2,A_Rickle_in_Time,1,12,Testicle Monster A:,You killed my gun! 
 3626,3627,2,A_Rickle_in_Time,1,12,Rick:,"Summer, Morty, take off your collars! "
 3627,3628,2,A_Rickle_in_Time,1,12,Testicle Monster A:,What? What the hell are you doing? 
-3628,3629,2,A_Rickle_in_Time,1,12,Rick: Good question. I suppose the answer is:,I'm not certain! 
+3628,3629,2,A_Rickle_in_Time,1,12,Rick:,Good question. I suppose the answer is: I'm not certain! 
 3629,3630,2,A_Rickle_in_Time,1,12,Testicle Monster A:,"Oh, no, what are you doin'? "
 3630,3631,2,A_Rickle_in_Time,1,12,Scene Action:,(Time splits into 2 timelines)
 3631,3632,2,A_Rickle_in_Time,1,12,Rick 1:,I have no idea! 
@@ -4375,7 +4375,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 4373,4374,2,Auto_Erotic_Assimilation,3,14,Unity (Shades guy):,I’m just taking a little break from stuff. You know? I need to relax. 
 4374,4375,2,Auto_Erotic_Assimilation,3,14,Rick:,"Oh, hey, wh-what’s this on the news, guys? L-l-let me turn it up."
 4375,4376,2,Auto_Erotic_Assimilation,3,14,Unity (Todd):,"In the news today, this looks a lot worse than it is. We’re… really just having a good time. Karen?"
-4376,4377,2,Auto_Erotic_Assimilation,3,14,"Unity (Karen): Thanks, Todd. Up next:",Are you a concerned grandchild or just a buzzkill? We’ll tell you how you can really know for sure! 
+4376,4377,2,Auto_Erotic_Assimilation,3,14,Unity (Karen):,"Thanks, Todd. Up next: Are you a concerned grandchild or just a buzzkill? We’ll tell you how you can really know for sure! "
 4377,4378,2,Auto_Erotic_Assimilation,3,14,Rick:,I think you two are a little outnumbered. 
 4378,4379,2,Auto_Erotic_Assimilation,3,14,Summer:,"Okay! Well, what if you did it for me? What if you came with us as a favour to us… because you love us?"
 4379,4380,2,Auto_Erotic_Assimilation,3,14,Rick:,What? Dumb. Bye.
@@ -4403,7 +4403,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 4401,4402,2,Auto_Erotic_Assimilation,3,14,Scene Action:,"(Both back away. Jerry puts his arm protectively in front of Beth. Blim Blam moves past them and breaks into a cabinet, before pulling out an object and pointing it at the two like a gun)"
 4402,4403,2,Auto_Erotic_Assimilation,3,14,Beth and Jerry:,Aah!
 4403,4404,2,Auto_Erotic_Assimilation,3,14,Scene Action:,(Blim Blam pushes the object into his neck)
-4404,4405,2,Auto_Erotic_Assimilation,3,14,"Blim Blam: Um, first of all, hello. Uh, my name is Blim Blam the korblok. Second of all, cards on the table:","I am a murderer that eats babies and I came to this planet to eat babies. However, I am also carrying a highly infectious disease, that I suppose you could call ‘space aids’ as you put it, and Rick did chain me up so that he could attempt to cure it. At the same time, Rick’s motivation to cure my disease was not to save my life or anyone else’s, but to patent and sell the cure for billions of blemflarks. But you know the reason why I ripped my chains out of the wall? And do you know why I’m never coming back to this planet? Because the two of you are the fucking worst! You both hate yourselves and each other! And the idea that it has anything to do with Rick is laughable! I’d laugh but I’m biologically incapable, that’s how alien I am! And even I’m sitting here listening to the two of you, and being like, what the fuck! So! Good luck with your shitty marriage, and I’m sorry that Rick has to deal with either of you. Blim Blam, out!"
+4404,4405,2,Auto_Erotic_Assimilation,3,14,Blim Blam:,"Um, first of all, hello. Uh, my name is Blim Blam the korblok. Second of all, cards on the table: I am a murderer that eats babies and I came to this planet to eat babies. However, I am also carrying a highly infectious disease, that I suppose you could call ‘space aids’ as you put it, and Rick did chain me up so that he could attempt to cure it. At the same time, Rick’s motivation to cure my disease was not to save my life or anyone else’s, but to patent and sell the cure for billions of blemflarks. But you know the reason why I ripped my chains out of the wall? And do you know why I’m never coming back to this planet? Because the two of you are the fucking worst! You both hate yourselves and each other! And the idea that it has anything to do with Rick is laughable! I’d laugh but I’m biologically incapable, that’s how alien I am! And even I’m sitting here listening to the two of you, and being like, what the fuck! So! Good luck with your shitty marriage, and I’m sorry that Rick has to deal with either of you. Blim Blam, out!"
 4405,4406,2,Auto_Erotic_Assimilation,3,14,Scene Action:,"(He drops the translator and leaves, but quickly rushes back to pick it up again)"
 4406,4407,2,Auto_Erotic_Assimilation,3,14,Blim Blam:,You know what? I’m taking this.
 4407,4408,2,Auto_Erotic_Assimilation,3,14,Scene Action:,[Trans. to garage. Summer and Morty have returned. Blim Blam pushes at the garage door but can’t open it]
@@ -4633,7 +4633,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 4631,4632,2,Total_Rickall,4,15,Beth:,( sighs ) Too many. 
 4632,4633,2,Total_Rickall,4,15,Reverse Giraffe:,"Okay, so maybe we're just all fake. "
 4633,4634,2,Total_Rickall,4,15,Mrs. Refrigerator:,That don't make no sense! 
-4634,4635,2,Total_Rickall,4,15,Reverse: Giraffe:,"Or maybe, there's only one deceiver here -- The person that keeps telling us the path to salvation is being held prisoner and mistrusting each other. "
+4634,4635,2,Total_Rickall,4,15,Reverse:,"Giraffe: Or maybe, there's only one deceiver here -- The person that keeps telling us the path to salvation is being held prisoner and mistrusting each other. "
 4635,4636,2,Total_Rickall,4,15,Rick:,"Hey, don't blame me! I tried to shoot Summer 10 minutes ago! "
 4636,4637,2,Total_Rickall,4,15,Reverse Giraffe:,"I know we all have beloved memories of Rick, but are we really supposed to believe that a mad scientist inventor with a flying car just showed up on our doorstep after being gone for years? "
 4637,4638,2,Total_Rickall,4,15,Morty:,"Yeah, you know, he does have a lot of really weird, made-up sounding catchphrases. "
@@ -5160,14 +5160,14 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5158,5159,2,Get_Schwifty,5,16,Magnesium-J:,"Water-T, where are you going? There’s too many of them! "
 5159,5160,2,Get_Schwifty,5,16,Scene Action:,(A dramatic zoom to Water-T’s face.) 
 5160,5161,2,Get_Schwifty,5,16,Water-T:,Then I better crunch the numbers. 
-5161,5162,2,Get_Schwifty,5,16,(Water-T bursts out of the door shooting at several Numbericons. The frame freezes mid-action and we hear gunshots and screaming. A title appears: “This summer:,Water-T And The Rise Of The Numbericons.”) 
+5161,5162,2,Get_Schwifty,5,16,(Water-T bursts out of the door shooting at several Numbericons. The frame freezes mid-action and we hear gunshots and screaming. A title appears:,“This summer: Water-T And The Rise Of The Numbericons.”) 
 5162,5163,2,Get_Schwifty,5,16,Scene Action:,[END] 
 5163,5164,2,The_Ricks_Must_Be_Crazy,6,17,Scene Action:,walking away from Egan Cinema 
 5164,5165,2,The_Ricks_Must_Be_Crazy,6,17,Morty:,"Geez, I can't believe we found a version of Earth with a Ball Fondlers movie franchise. "
 5165,5166,2,The_Ricks_Must_Be_Crazy,6,17,Summer:,I can't believe the things this reality considers PG-13 
 5166,5167,2,The_Ricks_Must_Be_Crazy,6,17,Morty:,"Yeah, I'm pretty jealous. "
 5167,5168,2,The_Ricks_Must_Be_Crazy,6,17,Rick:,"Don't be Morty, there are pros and cons to every reality, fun facts about this one; it's got giant telepathic spiders, eleven 9/11's, aaaand the best ice cream in the multiverse! "
-5168,5169,2,The_Ricks_Must_Be_Crazy,6,17,Summer: Shut up! Morty:,W-whoa! 
+5168,5169,2,The_Ricks_Must_Be_Crazy,6,17,Summer:,Shut up! Morty: W-whoa! 
 5169,5170,2,The_Ricks_Must_Be_Crazy,6,17,Rick:,We're gonna go get some ice-cream motherfuckers! 
 5170,5171,2,The_Ricks_Must_Be_Crazy,6,17,Scene Action:,car does not start 
 5171,5172,2,The_Ricks_Must_Be_Crazy,6,17,Rick:,Oh great. 
@@ -5245,7 +5245,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5243,5244,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"DON'T INSULT MY FATHER, HE'S THE REASON OUR KIDS ARE ONLY HALF-STUPID,"
 5244,5245,2,Big_Trouble_in_Little_Sanchez,7,18,Jerry:,"HA! YOU JUST CALLED YOURSELF -- OH,"
 5245,5246,2,Big_Trouble_in_Little_Sanchez,7,18,Glaxo Slimslom:,BETH AND JERRY SMITH?
-5246,5247,2,Big_Trouble_in_Little_Sanchez,7,18,"Jerry: YES, Glaxo Slimslom:","I'M GLAXO SLIMSLOM, WELCOME TO NUPTIA FOUR, YOUR MARRIAGE CAN REST EASY NOW, JERRY, GO AHEAD AND SIT THERE AND PUT THIS ON, THIS MACHINE ISOLATES THE PART OF THE SUBJECT'S BRAIN CONTAINING ALL PERCEPTIONS OF ITS ROMANTIC PARTNER, AND WE WILL NOW RENDER JERRY'S PERCEPTION OF BETH WITH ARTIFICIAL BIOLOGICAL LIFE, [GROWL] INTERESTING,"
+5246,5247,2,Big_Trouble_in_Little_Sanchez,7,18,Jerry:,"YES, Glaxo Slimslom: I'M GLAXO SLIMSLOM, WELCOME TO NUPTIA FOUR, YOUR MARRIAGE CAN REST EASY NOW, JERRY, GO AHEAD AND SIT THERE AND PUT THIS ON, THIS MACHINE ISOLATES THE PART OF THE SUBJECT'S BRAIN CONTAINING ALL PERCEPTIONS OF ITS ROMANTIC PARTNER, AND WE WILL NOW RENDER JERRY'S PERCEPTION OF BETH WITH ARTIFICIAL BIOLOGICAL LIFE, [GROWL] INTERESTING,"
 5247,5248,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,WHAT THE HELL IS THAT?! TAKE THAT BACK! YOU DO NOT THINK THAT ABOUT ME!
 5248,5249,2,Big_Trouble_in_Little_Sanchez,7,18,Jerry:,"I DIDN'T DO ANYTHING! THEY SCANNED IT OUT OF MY BRAIN, CAN I TAKE IT BACK?"
 5249,5250,2,Big_Trouble_in_Little_Sanchez,7,18,Glaxo Slimslom:,"THERE'S NOTHING TO REGRET, WE'RE DEALING WITH UNCONSCIOUS, UNHEALTHY THOUGHTS, BETH, NOW, WE SCAN FOR BETH'S PERCEPTIONS OF JERRY,"
@@ -5261,7 +5261,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5259,5260,2,Big_Trouble_in_Little_Sanchez,7,18,Morty:,"NO, SUMMER! I MEAN, YOU KNOW, I THINK IT MIGHT BE TIME THAT WE JUST L-LET IT GO,"
 5260,5261,2,Big_Trouble_in_Little_Sanchez,7,18,Summer:,"OH, SO, NOW, YOU'RE TOO COOL FOR THIS, JUST BECAUSE GRANDPA RICK IS?"
 5261,5262,2,Big_Trouble_in_Little_Sanchez,7,18,Morty:,"IT'S NOT THAT, IT'S JUST THAT THE UNIVERSE IS A LITTLE TOO BIG TO CARE ABOUT SOMETHING SO SMALL, AAH!"
-5262,5263,2,Big_Trouble_in_Little_Sanchez,7,18,"Tiny Rick: WHAT UP, MY HELSINGS? WHO WANTS TO HUNT A VAMPIRE? HA HA HA! Morty:",RICK? HOW -- HOW DID YOU --
+5262,5263,2,Big_Trouble_in_Little_Sanchez,7,18,Tiny Rick:,"WHAT UP, MY HELSINGS? WHO WANTS TO HUNT A VAMPIRE? HA HA HA! Morty: RICK? HOW -- HOW DID YOU --"
 5263,5264,2,Big_Trouble_in_Little_Sanchez,7,18,Tiny Rick:,"YEAH, I GOT BORED AND THEN, I REMEMBERED, THIS MORNING, HOW I BLEW SUMMER OFF, AND I THOUGHT, ""HEY, WHY ARE YOU SUCH A GRUMPY DOUCHE, RICK? GO TO THE GARAGE, TRANSFER YOUR MIND INTO A YOUNGER CLONE OF YOURSELF, AND GET EMBROILED IN SOME YOUTHFUL HIJINKS, WHAT'S THE BFD?"" SO HERE I AM, I'M TINY RICK!"
 5264,5265,2,Big_Trouble_in_Little_Sanchez,7,18,Morty:,"O-O-OKAY,"
 5265,5266,2,Big_Trouble_in_Little_Sanchez,7,18,Summer:,"WELL, IT'S GOOD YOU'RE HERE, RICK, I WAS PRETTY SURE WE DIDN'T HAVE WHAT IT TAKES TO DEAL WITH A BLOODSUCKER ON OUR OWN,"
@@ -5272,7 +5272,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5270,5271,2,Big_Trouble_in_Little_Sanchez,7,18,Summer:,HE KNOWS MY NAME!
 5271,5272,2,Big_Trouble_in_Little_Sanchez,7,18,Tiny Rick:,"WHY WOULDN'T HE? YOU'RE GREAT! BUT, LISTEN, JUST BE CAREFUL, WE CAN'T RULE ANYBODY OUT AS THE VAMPIRE, NOT EVEN THE DREAMBOATS,"
 5272,5273,2,Big_Trouble_in_Little_Sanchez,7,18,Summer:,"STOP, TINY RICK,"
-5273,5274,2,Big_Trouble_in_Little_Sanchez,7,18,Tiny Rick: HUNTIN' A VAMPIRE WITH MY GRANDKIDS! [BLEEP]! TINY RI-I-CK! Glaxo Slimslom: :,"THE NEXT STEP IS TO WATCH YOUR MYTHOLOGUES INTERACT TOGETHER AND, UH -- BIG SURPRISE -- IT'S NEVER PRETTY, [LAUGHTER] HERE WE HAVE GARRRH AND ZHARBIDAR GLOOMPFSCHS, OR, SHOULD I SAY, HERE WE HAVE THE WAY GARRRH AND ZHARBIDAR PERCEIVE EACH OTHER, [ROARING] [CHUCKLING] AS WE CAN ALL SEE, THIS IS HARDLY THE REAL GARRRH AND ZHARBIDAR, WHICH IS GOOD, BECAUSE THE RELATIONSHIP IN THEIR HEADS IS NOT ONLY UGLY, IT'S UNSUSTAINABLE, [BEEP] [ROAR] [GROWLING] YOU MAY ALREADY BE LEARNING SOMETHING IMPORTANT -- ALL OF THESE RELATIONSHIPS ARE DIFFERENT, NONE OF THEM ARE REAL, AND NONE OF THEM WORK, WE ARE NOT THE MONSTERS WE SOMETIMES SEE EACH OTHER AS, BECAUSE WE ARE REAL AND WE ARE FUNCTIONAL, THAT'S WHAT MAKES US BETTER THAN THEM, WE CAN FIND SOLUTIONS, WE CAN ADAPT, WE CAN COMMUNICATE, [GROWL] AND, MOST IMPORTANTLY, WE CAN WORK TOGETHER,"
+5273,5274,2,Big_Trouble_in_Little_Sanchez,7,18,Tiny Rick:,"HUNTIN' A VAMPIRE WITH MY GRANDKIDS! [BLEEP]! TINY RI-I-CK! Glaxo Slimslom: : THE NEXT STEP IS TO WATCH YOUR MYTHOLOGUES INTERACT TOGETHER AND, UH -- BIG SURPRISE -- IT'S NEVER PRETTY, [LAUGHTER] HERE WE HAVE GARRRH AND ZHARBIDAR GLOOMPFSCHS, OR, SHOULD I SAY, HERE WE HAVE THE WAY GARRRH AND ZHARBIDAR PERCEIVE EACH OTHER, [ROARING] [CHUCKLING] AS WE CAN ALL SEE, THIS IS HARDLY THE REAL GARRRH AND ZHARBIDAR, WHICH IS GOOD, BECAUSE THE RELATIONSHIP IN THEIR HEADS IS NOT ONLY UGLY, IT'S UNSUSTAINABLE, [BEEP] [ROAR] [GROWLING] YOU MAY ALREADY BE LEARNING SOMETHING IMPORTANT -- ALL OF THESE RELATIONSHIPS ARE DIFFERENT, NONE OF THEM ARE REAL, AND NONE OF THEM WORK, WE ARE NOT THE MONSTERS WE SOMETIMES SEE EACH OTHER AS, BECAUSE WE ARE REAL AND WE ARE FUNCTIONAL, THAT'S WHAT MAKES US BETTER THAN THEM, WE CAN FIND SOLUTIONS, WE CAN ADAPT, WE CAN COMMUNICATE, [GROWL] AND, MOST IMPORTANTLY, WE CAN WORK TOGETHER,"
 5274,5275,2,Big_Trouble_in_Little_Sanchez,7,18,Summer:,"WELL, IT WAS A TOUGH ADVENTURE, BUT IT PAID OFF -- OUR SCHOOL IS VAMPIRE-FREE!"
 5275,5276,2,Big_Trouble_in_Little_Sanchez,7,18,Mort:,"MAN, WHO WOULD'VE SUSPECTED COACH FERATU?"
 5276,5277,2,Big_Trouble_in_Little_Sanchez,7,18,Tiny Rick:,"YOU DID GREAT, GUYS, COULDN'T HAVE DONE IT WITHOUT YA, YOU KNOW, WE -- W-WE SHOULD BE PROUD OF OURSELVES, WE KILLED A VAMPIRE AND A GYM TEACHER, HA HA HA, TALK ABOUT TWO-FOR-ONE, RIGHT?!"
@@ -5289,7 +5289,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5287,5288,2,Big_Trouble_in_Little_Sanchez,7,18,Jerry:,"OH, MY GOD, [SHRIEK] [GASP]"
 5288,5289,2,Big_Trouble_in_Little_Sanchez,7,18,Glaxo Slimslom:,"AAH! AAH! OH, MY GOD, SECURE THE CELL! AAAAH! -[SLICE] UH, HEY! YOU KNOW WHAT'S FUN? OUR GIFT SHOP, WHY DON'T WE PROCEED IN AN ORDERLY -- [GROWL] [ WHIMPERING ] OH, DEAR GOD, NO, THEY'RE CODEPENDENT! RUN! [ROARING] OH!"
 5289,5290,2,Big_Trouble_in_Little_Sanchez,7,18,Scene Action:,[CRICKETS CHIRP] [CHATTING] [ROCK MUSIC PLAYS] [ LAUGHTER ]
-5290,5291,2,Big_Trouble_in_Little_Sanchez,7,18,"Toby: OH, YEAH, YEAH, YOU REALLY KNOW HOW TO SPORT THAT COLOR BLUE, Summer:",REALLY?
+5290,5291,2,Big_Trouble_in_Little_Sanchez,7,18,Toby:,"OH, YEAH, YEAH, YOU REALLY KNOW HOW TO SPORT THAT COLOR BLUE, Summer: REALLY?"
 5291,5292,2,Big_Trouble_in_Little_Sanchez,7,18,Toby:,"YOU'RE LOOKING REAL GOOD,"
 5292,5293,2,Big_Trouble_in_Little_Sanchez,7,18,Summer:,"OH, MY GOD,"
 5293,5294,2,Big_Trouble_in_Little_Sanchez,7,18,Jessica:,"HEY, MORTY, OH, HEY -- HEY, JESSICA, SO, IS TINY RICK YOUR BROTHER OR COUSIN, OR,,,?"
@@ -5334,7 +5334,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5332,5333,2,Big_Trouble_in_Little_Sanchez,7,18,Goldenfold:,"YEAH, GET OUTSIDE, READ A BOOK, PUT ON SOME SUNSCREEN, DANIELLE!"
 5333,5334,2,Big_Trouble_in_Little_Sanchez,7,18,Tiny Rick:,"HEY, WHAT'S UP, SUMMER? OOH, NICE TOP,"
 5334,5335,2,Big_Trouble_in_Little_Sanchez,7,18,Summer:,"THANKS, TINY RICK, YOU THINK YOU MIGHT BE GETTING BACK INTO YOUR OLD BODY TONIGHT?"
-5335,5336,2,Big_Trouble_in_Little_Sanchez,7,18,"Tiny Rick: NO CAN DO, TONIGHT'S THE BIG DANCE AND MORTY'S BRINGING JESSICA, HE NEEDS HIS TINY WING MAN, Both:",TINY RICK! [LAUGHS]
+5335,5336,2,Big_Trouble_in_Little_Sanchez,7,18,Tiny Rick:,"NO CAN DO, TONIGHT'S THE BIG DANCE AND MORTY'S BRINGING JESSICA, HE NEEDS HIS TINY WING MAN, Both: TINY RICK! [LAUGHS]"
 5336,5337,2,Big_Trouble_in_Little_Sanchez,7,18,Summer:,"OKAY, BUT IF NOT TONIGHT, WHEN?"
 5337,5338,2,Big_Trouble_in_Little_Sanchez,7,18,Tiny Rick:,"I DON'T KNOW, WHEN I FEEL LIKE IT?"
 5338,5339,2,Big_Trouble_in_Little_Sanchez,7,18,Morty:,"DAMN, GIRL! YOU NEED TO CHILL OUT! THIS WHOLE THING WAS YOUR IDEA, IN THE FIRST PLACE, AND, NOW, YOU'RE TRYING TO RUSH IT ALONG,"
@@ -5505,7 +5505,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5503,5504,2,Look_Who%27s_Purging_Now,9,20,Scene Action:,[ BELL CHIMING ]
 5504,5505,2,Look_Who%27s_Purging_Now,9,20,Rick:,"OH, OH! Shh, Shh, IT'S STARTING, -OH-HO-HO! HERE WE GO,"
 5505,5506,2,Look_Who%27s_Purging_Now,9,20,Morty:,"I'M NOT WATCHING,"
-5506,5507,2,Look_Who%27s_Purging_Now,9,20,"Rick: YEAH, YEAH, YEAH, YOUR MEDAL'S IN THE MAIL, -I'M GONNA GET A CLOSER LOOK, Morty:","OH, OKAY, SURE, AND THEN SOMEONE'S GONNA THROW A ROCK AND HIT THE CAR AND THEN WE'RE GONNA CRASH AND WE'RE GONNA BE STUCK DOWN THERE AND IT'S GONNA BE WHAT WE DESERVE,"
+5506,5507,2,Look_Who%27s_Purging_Now,9,20,Rick:,"YEAH, YEAH, YEAH, YOUR MEDAL'S IN THE MAIL, -I'M GONNA GET A CLOSER LOOK, Morty: OH, OKAY, SURE, AND THEN SOMEONE'S GONNA THROW A ROCK AND HIT THE CAR AND THEN WE'RE GONNA CRASH AND WE'RE GONNA BE STUCK DOWN THERE AND IT'S GONNA BE WHAT WE DESERVE,"
 5507,5508,2,Look_Who%27s_Purging_Now,9,20,Rick:,"YAWN, WHOA!"
 5508,5509,2,Look_Who%27s_Purging_Now,9,20,Scene Action:,[ INDISTINCT SHOUTING ]
 5509,5510,2,Look_Who%27s_Purging_Now,9,20,Rick:,"WHOA, THEY ARE PURGING THE [BLEEP] OUT OF EACH OTHER,"
@@ -5519,10 +5519,10 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5517,5518,2,Look_Who%27s_Purging_Now,9,20,Rick:,"YOU LITTLE TURD,"
 5518,5519,2,Look_Who%27s_Purging_Now,9,20,Arthrisha:,[ SCREAMING ] PLEASE! LEAVE ME ALONE!
 5519,5520,2,Look_Who%27s_Purging_Now,9,20,Purger:,"LEAVE YOU ALONE? DURING A PURGE? I DON'T THINK SO, BABY,"
-5520,5521,2,Look_Who%27s_Purging_Now,9,20,"Morty: IT'S OKAY, WE'RE NOT GONNA HURT YOU, MY NAME IS MORTY, THIS IS MY GRANDPA, WE'RE TOURISTS, Rick:","NOT ANYMORE,"
+5520,5521,2,Look_Who%27s_Purging_Now,9,20,Morty:,"IT'S OKAY, WE'RE NOT GONNA HURT YOU, MY NAME IS MORTY, THIS IS MY GRANDPA, WE'RE TOURISTS, Rick: NOT ANYMORE,"
 5521,5522,2,Look_Who%27s_Purging_Now,9,20,Scene Action:,-AAH! -AAH!
 5522,5523,2,Look_Who%27s_Purging_Now,9,20,Rick:,"OH, MY GOD, THIS IS [BLEEP] AWESOME! MORTY, THIS IS REALLY COOL, HEY, Y-YOU WANT TO HELP ME OUT HERE AND KILL SOME PEOPLE? IT'S FUN, WE'RE TOTALLY JUSTIFIED BECAUSE WE'RE SAVING A LITTLE GIRL, I MEAN, W-W-WE'RE BOTH FREE AND CLEAR TO MURDER THESE PEOPLE,"
-5523,5524,2,Look_Who%27s_Purging_Now,9,20,Morty: ARE YOU OKAY? Arthrisha:,"YES, I HAVE TO FIND SOMEWHERE TO HIDE,"
+5523,5524,2,Look_Who%27s_Purging_Now,9,20,Morty:,"ARE YOU OKAY? Arthrisha: YES, I HAVE TO FIND SOMEWHERE TO HIDE,"
 5524,5525,2,Look_Who%27s_Purging_Now,9,20,Morty:,"WELL, YOU CAN HIDE WITH US, RICK?"
 5525,5526,2,Look_Who%27s_Purging_Now,9,20,Rick:,YEAH?
 5526,5527,2,Look_Who%27s_Purging_Now,9,20,Morty:,DO YOU THINK WE COULD TAKE -- W-WHAT'S YOUR NAME?
@@ -5617,7 +5617,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5615,5616,2,Look_Who%27s_Purging_Now,9,20,Jerry:,WHY ARE YOU WITH TADDI MASON?
 5616,5617,2,Look_Who%27s_Purging_Now,9,20,Morty:,Holy [Bleep] Dad! Shut the [Bleep] up!
 5617,5618,2,Look_Who%27s_Purging_Now,9,20,Jerry:,"OKAY, I GUESS I'M JUST THIS ENTIRE FAMILY'S TOILET PAPER,"
-5618,5619,2,Look_Who%27s_Purging_Now,9,20,Rick: ARE YOU WRITING THIS DOWN? WILL YOU PLEASE WRITE THIS DOWN? SUMMER:,"Yes, yes,"
+5618,5619,2,Look_Who%27s_Purging_Now,9,20,Rick:,"ARE YOU WRITING THIS DOWN? WILL YOU PLEASE WRITE THIS DOWN? SUMMER: Yes, yes,"
 5619,5620,2,Look_Who%27s_Purging_Now,9,20,Scene Action:,[ GROWLING ] AAH! [ GROWLING ]
 5620,5621,2,Look_Who%27s_Purging_Now,9,20,Rick:,"YOU SON OF A BITCH! MORTY, I DON'T WANT TO BE THE ""A LITTLE HELP"" GUY, BUT A LITTLE HELP?"
 5621,5622,2,Look_Who%27s_Purging_Now,9,20,Scene Action:,AAH!
@@ -5642,7 +5642,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5640,5641,2,Look_Who%27s_Purging_Now,9,20,Rick:,"BY THE WAY, LIFE ON OTHER PLANETS EXISTS, DON'T LET IT DISTRACT YOU,"
 5641,5642,2,Look_Who%27s_Purging_Now,9,20,Lighthouse Attendant:,"I'LL LET YOU USE MY LIGHTHOUSE FOR SHELTER AND BEACON-SENDING ON THE CONDITION THAT YOU LISTEN TO MY TALE,"
 5642,5643,2,Look_Who%27s_Purging_Now,9,20,Rick:,"OKAY,"
-5643,5644,2,Look_Who%27s_Purging_Now,9,20,"Morty: DEAL, Rick:","ALL RIGHT, I'M GONNA GO TO THE ROOF AND SET THINGS UP, MORTY, YOU LISTEN TO HIS TALE,"
+5643,5644,2,Look_Who%27s_Purging_Now,9,20,Morty:,"DEAL, Rick: ALL RIGHT, I'M GONNA GO TO THE ROOF AND SET THINGS UP, MORTY, YOU LISTEN TO HIS TALE,"
 5644,5645,2,Look_Who%27s_Purging_Now,9,20,Morty:,"OKAY,"
 5645,5646,2,Look_Who%27s_Purging_Now,9,20,Lighthouse Attendant:,"[ CLEARS THROAT ] ""FADE IN, EXTERIOR, UNNAMED CITY, DAY, THE HUSTLE AND BUSTLE IS A SYMPHONY OF PROGRESS, WE PAN PAST WINDOWS, EACH OF WHICH CONTAIN A DIFFERENT STORY, TO FIND JACEY LAKIMS, 28 -- HOT, BUT DOESN'T KNOW IT, JACEY STOPS WHEN HER HIGH HEEL GETS CAUGHT IN THE GRATING OF A SEWER, SUDDENLY, A MAN STEPS INTO FRAME AND POINTS A GUN AT HER, THIS IS NOT HER DAY, FADE TO BLACK, TITLE -- 'THREE WEEKS EARLIER,'"""
 5646,5647,2,Look_Who%27s_Purging_Now,9,20,Jerry:,"[ SIGHS ] YOU REALLY DON'T WANT TO TALK TO ME ABOUT THIS,"
@@ -5666,7 +5666,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5664,5665,2,Look_Who%27s_Purging_Now,9,20,Morty:,"WOW,"
 5665,5666,2,Look_Who%27s_Purging_Now,9,20,Lighthouse Attendant:,YEAH?
 5666,5667,2,Look_Who%27s_Purging_Now,9,20,Morty:,"IT'S... G-GOOD JOB, GOOD JOB,"
-5667,5668,2,Look_Who%27s_Purging_Now,9,20,Lighthouse Attendant: YOU LIKED IT? Morty:,"OF COURSE I DID,"
+5667,5668,2,Look_Who%27s_Purging_Now,9,20,Lighthouse Attendant:,"YOU LIKED IT? Morty: OF COURSE I DID,"
 5668,5669,2,Look_Who%27s_Purging_Now,9,20,Lighthouse Attendant:,"YOU DIDN'T LAUGH AT THE SCENE IN THE BAR,"
 5669,5670,2,Look_Who%27s_Purging_Now,9,20,Morty:,"I... THOUGHT IT WAS FUNNY, BUT I WANTED TO HEAR THE REST,"
 5670,5671,2,Look_Who%27s_Purging_Now,9,20,Lighthouse Attendant:,DO YOU HAVE ANY THOUGHTS? NOTES?
@@ -5869,7 +5869,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5867,5868,2,The_Wedding_Squanchers,10,21,Rick:,"YEAH, I KNOW, NOW WE HAVE TO GO TO THE WEDDING,"
 5868,5869,2,The_Wedding_Squanchers,10,21,Scene Action:,[ UPBEAT MUSIC PLAYIN ] [ BOTTLES RATTLING ]
 5869,5870,2,The_Wedding_Squanchers,10,21,Squanchy:,RICK SANCHEZ! YOU PSYCHO BAG OF SQUANCH!
-5870,5871,2,The_Wedding_Squanchers,10,21,"Rick: HEY, WHAT'S UP, SQUANCHY? Summer and Morty:","HEY, SQUANCHY,"
+5870,5871,2,The_Wedding_Squanchers,10,21,Rick:,"HEY, WHAT'S UP, SQUANCHY? Summer and Morty: HEY, SQUANCHY,"
 5871,5872,2,The_Wedding_Squanchers,10,21,Squanchy:,"MORTY, SUMMER! AND YOU MUST BE BETH, MWAH! ENSQUANCHE!"
 5872,5873,2,The_Wedding_Squanchers,10,21,Beth:,"YOU'RE LANGUAGE HAS THE WORD ""SQUANCH"" IN IT A LOT, DOESN'T THAT BECOME TEDIOUS AND WORN OUT, LIKE THE SMURF THING?"
 5873,5874,2,The_Wedding_Squanchers,10,21,Rick:,"BETH, SQUANCHY CULTURE IS MORE CONTEXTUAL THAN LITERAL, YOU JUST SAY WHAT'S IN YOUR SQUANCH AND PEOPLE UNDERSTAND,"
@@ -5899,7 +5899,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 5897,5898,2,The_Wedding_Squanchers,10,21,Jerry:,"OKAY, I GET IT, I'M CRAMPING YOUR STYLE,"
 5898,5899,2,The_Wedding_Squanchers,10,21,Beth:,"YOU SAY YOU GET IT, BUT I'M SCARED YOU'LL KEEP DOING IT, LOOK, HERE'S SOME HUMANS YOU CAN PRACTICE ON,"
 5899,5900,2,The_Wedding_Squanchers,10,21,Pat:,"YOU MUST BE SUMMER'S MOM AND DAD,"
-5900,5901,2,The_Wedding_Squanchers,10,21,"Donna: WE'RE TAMMY'S PARENTS -- PAT AND DONNA GUTERMAN, Beth:","HI, BETH, THIS IS JERRY,"
+5900,5901,2,The_Wedding_Squanchers,10,21,Donna:,"WE'RE TAMMY'S PARENTS -- PAT AND DONNA GUTERMAN, Beth: HI, BETH, THIS IS JERRY,"
 5901,5902,2,The_Wedding_Squanchers,10,21,Jerry:,"SO YOU'RE TEENAGE DAUGHTER'S MARRYING A BIRDMAN, ARE YOU GUYS DOWN WITH THAT? [ CHUCKLES ] NO PUN INTENDED,"
 5902,5903,2,The_Wedding_Squanchers,10,21,Donna:,"WE'RE QUITE PROUD,"
 5903,5904,2,The_Wedding_Squanchers,10,21,Pat:,"HE'S A WONDERFUL PERSON AND AN INCREDIBLE BIRD,"
@@ -6021,7 +6021,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 6019,6020,2,The_Wedding_Squanchers,10,21,Beth:,"THIS LOOKS NICE,"
 6020,6021,2,The_Wedding_Squanchers,10,21,Summer:,"MOM, DAD, LOOK! STRAWBERRIES ON A COB! [ MUNCHING ]"
 6021,6022,2,The_Wedding_Squanchers,10,21,Morty:,"WHOA! HEY, CHECK THIS OUT! FLOWERS ON A COB! [ LAUGHS ]"
-6022,6023,2,The_Wedding_Squanchers,10,21,"Jerry: HUH, STRAWBERRIES AND FLOWERS ON A COB, HUH? THAT'S PRETTY COOL, Beth:",ARE THOSE... MOUNTAINS ON A COB?
+6022,6023,2,The_Wedding_Squanchers,10,21,Jerry:,"HUH, STRAWBERRIES AND FLOWERS ON A COB, HUH? THAT'S PRETTY COOL, Beth: ARE THOSE... MOUNTAINS ON A COB?"
 6023,6024,2,The_Wedding_Squanchers,10,21,Scene Action:,[ BIRDS CAWING ]
 6024,6025,2,The_Wedding_Squanchers,10,21,Rick:,"OH, MY GOD, GET IN THE SHIP, SWEETIE, WHAT? GET IN THE GOD[BLEEP] SHIP!! EVERYTHING'S ON A COB!! THE WHOLE PLANET'S ON A COB!! GO, GO, GO!!"
 6025,6026,2,The_Wedding_Squanchers,10,21,Scene Action:,[ ENGINE TURNS OVER ]
@@ -6095,7 +6095,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 6093,6094,2,The_Wedding_Squanchers,10,21,Galactic Police Officer:,"GOOD MORNING,"
 6094,6095,2,The_Wedding_Squanchers,10,21,Scene Action:,♪ I WILL MAKE YOU HURT
 6095,6096,2,The_Wedding_Squanchers,10,21,Customs Agent:,HOW LONG WILL YOU BE VISITING EARTH?
-6096,6097,2,The_Wedding_Squanchers,10,21,"Jerry: OH, WE LIVE HERE, WE WERE JUST OFF-PLANET FOR A WEDDING, Customs Agent:","GO THAT WAY,"
+6096,6097,2,The_Wedding_Squanchers,10,21,Jerry:,"OH, WE LIVE HERE, WE WERE JUST OFF-PLANET FOR A WEDDING, Customs Agent: GO THAT WAY,"
 6097,6098,2,The_Wedding_Squanchers,10,21,Scene Action:,"[ TIRES SCREECH, BEEPING ]"
 6098,6099,2,The_Wedding_Squanchers,10,21,Robot:,"I HAVE PROCESSED THAT YOU ARE IN IN DISTRESS AND HAVE PROSCRIBED ANTIDEPRESSANTS, COMPLIMENTS OF THE GALACTIC FEDERATION,"
 6099,6100,2,The_Wedding_Squanchers,10,21,Jerry:,"I FEEL BETTER,"
@@ -6111,7 +6111,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 6109,6110,2,The_Wedding_Squanchers,10,21,Scene Action:,[ MEOWING ]
 6110,6111,2,The_Wedding_Squanchers,10,21,Mr. Poopybutthole:,"COME AND GET IT, KITTY, YOU KNOW, THESE LITTLE FELLOWS HELP ME GET THROUGH THE DAY, [ GULPING ] OOH-WHEE, OH, WHOO-WHEE! FEELS BETTER,"
 6111,6112,2,The_Wedding_Squanchers,10,21,Scene Action:,[ DOORBELL RINGS ]
-6112,6113,2,The_Wedding_Squanchers,10,21,"Pizza Delivery Driver: I GOT A LARGE PEPPERONI AND SOME CRAZY STICKS, Mr. Poopybutthole:","HEY, WHAT DID YOU THINK OF THAT FINALE, HUH? MM! YOU THINK THE SMITH FAMILY IS GONNA BE OKAY?"
+6112,6113,2,The_Wedding_Squanchers,10,21,Pizza Delivery Driver:,"I GOT A LARGE PEPPERONI AND SOME CRAZY STICKS, Mr. Poopybutthole: HEY, WHAT DID YOU THINK OF THAT FINALE, HUH? MM! YOU THINK THE SMITH FAMILY IS GONNA BE OKAY?"
 6113,6114,2,The_Wedding_Squanchers,10,21,Pizza Delivery Driver:,"YEAH, I DON'T KNOW WHAT YOU'RE TALKING ABOUT, BRO, YOUR TOTAL IS $12,37,"
 6114,6115,2,The_Wedding_Squanchers,10,21,Mr. Poopybutthole:,"WHOO-WHEE! YOU THINK RICK'S GONNA GET OUT OFF JAIL? WHOO-WHEE, YOU THINK THE FAMILY'S GONNA RESCUE HIM?"
 6115,6116,2,The_Wedding_Squanchers,10,21,Pizza Delivery Driver:,"HEY, WHAT THE [BLEEP]?! GET THE [BLEEP] OFF ME!"
@@ -6576,7 +6576,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 6574,6575,3,Rickmancing_the_Stone,2,23,Scene Action:, Th-Th-That's interesting.
 6575,6576,3,Rickmancing_the_Stone,2,23, Hemorrhage:,"That is our glowing rock. We carry it with us for desecration, to remind us there are no gods."
 6576,6577,3,Rickmancing_the_Stone,2,23,Scene Action:, [Rick holds up machine which was beeping before and it begins to beep again in the presence of the rock]
-6577,6578,3,Rickmancing_the_Stone,2,23," Rick: Kids, weird pitch:",let's have this be our new life. Let's be post-apocalyptic scavengers!
+6577,6578,3,Rickmancing_the_Stone,2,23, Rick:,"Kids, weird pitch: let's have this be our new life. Let's be post-apocalyptic scavengers!"
 6578,6579,3,Rickmancing_the_Stone,2,23, Summer:,(grinning) Okay.
 6579,6580,3,Rickmancing_the_Stone,2,23, Morty:,What?!
 6580,6581,3,Rickmancing_the_Stone,2,23,Scene Action:," [Transition to Death Stalkers camp. Rick, Morty, and Summer are waiting in a lunch line.]"
@@ -6660,7 +6660,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 6658,6659,3,Rickmancing_the_Stone,2,23,Scene Action:, [Armothy punches off the man's head. Morty looks at Armothy]
 6659,6660,3,Rickmancing_the_Stone,2,23,Scene Action:, Thank you.
 6660,6661,3,Rickmancing_the_Stone,2,23,Scene Action:, [Armothy gives a thumbs up. Summer runs up to Morty and gives him a hug]
-6661,6662,3,Rickmancing_the_Stone,2,23," Summer: Morty, that was amazing! This is my brother! Not that family means anything! Hemorrhage:",This family does.
+6661,6662,3,Rickmancing_the_Stone,2,23, Summer:,"Morty, that was amazing! This is my brother! Not that family means anything! Hemorrhage: This family does."
 6662,6663,3,Rickmancing_the_Stone,2,23, Rick:,"All right. Good job, champ. Um, can I talk to you kids for a second over yonder? "
 6663,6664,3,Rickmancing_the_Stone,2,23, Morty:,"Rick, I-I-I think I'm breaking through to something here. C-Can we not leave just yet? "
 6664,6665,3,Rickmancing_the_Stone,2,23, Hemorrhage:,Leave? 
@@ -7141,7 +7141,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 7139,7140,3,Pickle_Rick,3,24,Agency Director:,"Shut your mouth and do your jobs, you fucking children!"
 7140,7141,3,Pickle_Rick,3,24,Pickle Rick:,"Uh, is this not a good time or...?"
 7141,7142,3,Pickle_Rick,3,24,Scene Action:,"[Agent #1 holds his earpiece up to his ear. He gives a thumbs up to the Agency Director. On one of the monitors, six agents run up to the door of room 304 with rifles.]"
-7142,7143,3,Pickle_Rick,3,24,"Agency Director: Some of my men are calling you ""Solen'ya"":","The Pickle Man, an old wives tale. He crawls from bowls of cold soup to steal the dreams of wasteful children."
+7142,7143,3,Pickle_Rick,3,24,Agency Director:,"Some of my men are calling you ""Solen'ya"": The Pickle Man, an old wives tale. He crawls from bowls of cold soup to steal the dreams of wasteful children."
 7143,7144,3,Pickle_Rick,3,24,Scene Action:,[One of the agents on the monitor gives a thumbs up. The Agency Director pantomimes slicing his neck to Agent #1.]
 7144,7145,3,Pickle_Rick,3,24,Pickle Rick:,That'd be a lucky break for you.
 7145,7146,3,Pickle_Rick,3,24,Agent 1:,"Go, shoot to kill!"
@@ -7308,7 +7308,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 7306,7307,3,Tales_From_the_Citadel,7,28,Scene Action:,"(Many Ricks are commuting to work. They all pull out flasks and take a drink at the same time. Rick J-22 looks out the window and sees a wealthy Rick in a flying car, enjoying sardines and champaign. He sighs.) "
 7307,7308,3,Tales_From_the_Citadel,7,28,Scene Action:,(Music fades out) 
 7308,7309,3,Tales_From_the_Citadel,7,28,Scene Action:,[Trans. Citadel Morning News] 
-7309,7310,3,Tales_From_the_Citadel,7,28,Rick (voiceover): Citadel Morning News:,News about the Citadel in the morning. Pretty self explanatory. 
+7309,7310,3,Tales_From_the_Citadel,7,28,Rick (voiceover):,Citadel Morning News: News about the Citadel in the morning. Pretty self explanatory. 
 7310,7311,3,Tales_From_the_Citadel,7,28,Scene Action:,[Int. News room] 
 7311,7312,3,Tales_From_the_Citadel,7,28,Scene Action:,(Rick 0716 and Rick 0716-B anchor at the desk.) 
 7312,7313,3,Tales_From_the_Citadel,7,28,Rick D716-B:,Good morning. I’m Rick D716-B. 
@@ -7352,7 +7352,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 7350,7351,3,Tales_From_the_Citadel,7,28,Scene Action:,[Trans. Morty Pride Parade] 
 7351,7352,3,Tales_From_the_Citadel,7,28,Scene Action:,"(A parade of Mortys marches down the street. Many Mortys hold signs. There are a few Ricks among the spectators. Cop Rick watches from outside Cafe Sanchez, drinking a coffee. A police cruiser pulls up, nearly hitting two Mortys who run out of the way just in time. It stops in front of Cop Rick and the passenger window rolls down, revealing Cop Morty behind the wheel.) "
 7352,7353,3,Tales_From_the_Citadel,7,28,Cop Rick:,"Oh! S-sorry, I was expecting-- "
-7353,7354,3,Tales_From_the_Citadel,7,28,"Cop Morty: A Rick partner? Lesson 1, Rookie:",expect the unexpected. Now get in. 
+7353,7354,3,Tales_From_the_Citadel,7,28,Cop Morty:,"A Rick partner? Lesson 1, Rookie: expect the unexpected. Now get in. "
 7354,7355,3,Tales_From_the_Citadel,7,28,Scene Action:,(Cop Rick climbs into the passenger seat. Cop Morty starts the cruiser and drives slowly as they approach a cluster of Mortys. One Morty jumps against the hood of the car.) 
 7355,7356,3,Tales_From_the_Citadel,7,28,Morty:,Mortys are human! 
 7356,7357,3,Tales_From_the_Citadel,7,28,Cop Morty:,Get the fuck off the car you Rickless fuckin’ animal! 
@@ -7460,7 +7460,7 @@ Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line
 7458,7459,3,Tales_From_the_Citadel,7,28,Scene Action:,"(Rick J-22 works at his post in the wafer factory, but becomes enraged, breaks off a piece of machinery to use as a weapon, and enters Supervisor Rick’s office, where he’s watching the debate. He shoots Supervisor Rick to death.) "
 7459,7460,3,Tales_From_the_Citadel,7,28,Rick J-22:,Holy shit. 
 7460,7461,3,Tales_From_the_Citadel,7,28,Scene Action:,"(As the factory goes into lockdown, Rick J-22 enters the flavor chamber and uses Simple Rick as a hostage.) "
-7461,7462,3,Tales_From_the_Citadel,7,28,"Candidate Morty: But I’ve got a message for them, from the Ricks and Mortys keeping it alive. A message… from the Ricks and Mortys that believe in this Citadel to the Ricks and Mortys that don’t:",you are outnumbered! 
+7461,7462,3,Tales_From_the_Citadel,7,28,Candidate Morty:,"But I’ve got a message for them, from the Ricks and Mortys keeping it alive. A message… from the Ricks and Mortys that believe in this Citadel to the Ricks and Mortys that don’t: you are outnumbered! "
 7462,7463,3,Tales_From_the_Citadel,7,28,Scene Action:,(Debate audience bursts into applause.) 
 7463,7464,3,Tales_From_the_Citadel,7,28,Scene Action:,[Int. Backstage] 
 7464,7465,3,Tales_From_the_Citadel,7,28,Campaign Manager Morty:,Holy shit. (Candidate Morty walks backstage.) I don’t believe it! I-I can’t believe it! 
