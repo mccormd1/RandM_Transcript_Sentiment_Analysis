@@ -10,7 +10,6 @@ gword =[{text: 'oh', size: 80.0},
 {text: 'go', size: 38.46153846153847},
 {text: 'know', size: 36.15384615384615},
 {text: 'get', size: 36.15384615384615},
-{text: '``', size: 35.0},
 {text: 'okay', size: 35.0},
 {text: 'mom', size: 35.0},
 {text: 'want', size: 31.53846153846154},
@@ -97,5 +96,6 @@ gword =[{text: 'oh', size: 80.0},
 {text: 'mean', size: 21.153846153846153},
 {text: 'tiny', size: 21.153846153846153},
 {text: 'put', size: 21.153846153846153},
-{text: 'trying', size: 20.0}
+{text: 'trying', size: 20.0},
+{text: 'man', size: 20.0}
 ];

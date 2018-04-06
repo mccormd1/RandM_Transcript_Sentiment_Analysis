@@ -25,7 +25,6 @@ gword =[{text: 'jerry', size: 80.0},
 {text: 'god', size: 25.806451612903224},
 {text: 'love', size: 25.806451612903224},
 {text: 'say', size: 25.806451612903224},
-{text: '``', size: 25.806451612903224},
 {text: 'never', size: 25.806451612903224},
 {text: 'life', size: 24.838709677419356},
 {text: 'yeah', size: 24.838709677419356},
@@ -97,5 +96,6 @@ gword =[{text: 'jerry', size: 80.0},
 {text: 'nice', size: 20.0},
 {text: 'whole', size: 20.0},
 {text: 'sure', size: 20.0},
-{text: 'together', size: 20.0}
+{text: 'together', size: 20.0},
+{text: 'something', size: 20.0}
 ];

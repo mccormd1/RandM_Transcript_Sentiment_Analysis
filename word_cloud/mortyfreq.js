@@ -29,7 +29,6 @@ gword =[{text: 'rick', size: 80.0},
 {text: 'whoa', size: 24.581818181818182},
 {text: 'um', size: 24.363636363636363},
 {text: 'time', size: 24.363636363636363},
-{text: '``', size: 23.92727272727273},
 {text: 'ca', size: 23.70909090909091},
 {text: 'i-i', size: 23.70909090909091},
 {text: 'come', size: 23.490909090909092},
@@ -97,5 +96,6 @@ gword =[{text: 'rick', size: 80.0},
 {text: 'need', size: 20.0},
 {text: 'anything', size: 20.0},
 {text: 'real', size: 20.0},
-{text: 'bad', size: 20.0}
+{text: 'bad', size: 20.0},
+{text: 'parents', size: 20.0}
 ];

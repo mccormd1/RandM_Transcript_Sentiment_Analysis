@@ -7,7 +7,6 @@ gword =[{text: 'well', size: 80.0},
 {text: 'hey', size: 57.89473684210526},
 {text: 'uh', size: 56.31578947368421},
 {text: 'beth', size: 54.73684210526316},
-{text: '``', size: 51.578947368421055},
 {text: 'got', size: 51.578947368421055},
 {text: 'yeah', size: 48.421052631578945},
 {text: 'right', size: 48.421052631578945},
@@ -97,5 +96,6 @@ gword =[{text: 'well', size: 80.0},
 {text: 'first', size: 20.0},
 {text: 'whatever', size: 20.0},
 {text: 'apples', size: 20.0},
-{text: 'different', size: 20.0}
+{text: 'different', size: 20.0},
+{text: 'happened', size: 20.0}
 ];

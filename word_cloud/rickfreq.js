@@ -23,7 +23,6 @@ gword =[{text: 'morty', size: 80.0},
 {text: 'little', size: 25.226480836236934},
 {text: 'bleep', size: 24.808362369337978},
 {text: 'think', size: 24.494773519163765},
-{text: '``', size: 24.285714285714285},
 {text: 'really', size: 24.181184668989545},
 {text: 'back', size: 24.181184668989545},
 {text: 'uh', size: 24.181184668989545},
@@ -97,5 +96,6 @@ gword =[{text: 'morty', size: 80.0},
 {text: 'ta', size: 20.0},
 {text: 'anything', size: 20.0},
 {text: 'crap', size: 20.0},
-{text: 'idea', size: 20.0}
+{text: 'idea', size: 20.0},
+{text: 'keep', size: 20.0}
 ];
