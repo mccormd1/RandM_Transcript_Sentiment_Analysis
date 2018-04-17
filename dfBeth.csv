@@ -1,0 +1,402 @@
+Sentence_id,Season,Episode,Episode_num,Episode_id,Character,Line,Line_no_stopwords
+46,47,1,Pilot,1,1,Beth:,"Morty, are you getting sick? ",morty getting sick
+52,53,1,Pilot,1,1,Beth:,Dad?,dad
+55,56,1,Pilot,1,1,Beth:,Jerry!,jerry
+61,62,1,Pilot,1,1,Beth:,"  Oh, dad...",oh dad
+111,112,1,Pilot,1,1,Beth:,  Scalpel.,scalpel
+114,115,1,Pilot,1,1,Beth:,Jerry?,jerry
+118,119,1,Pilot,1,1,Beth:,"Jerry, please tell me you're here for an incredibly urgent reason.",jerry please tell incredibly urgent reason
+122,123,1,Pilot,1,1,Beth:,"Okay, I only ask, Jerry, because, as you know, my job involves performing heart surgery.",okay ask jerry know job involves performing heart surgery
+124,125,1,Pilot,1,1,Beth:,Excuse me?,excuse
+128,129,1,Pilot,1,1,Beth:,"Hey, Tom! We know when we're losing him. WE CAN HEAR THE BEEPS!",hey tom know losing hear beeps
+153,154,1,Pilot,1,1,Beth:,"I am not putting my father in a home! He just came back into my life, and you want to grab him and stuff him under a mattress like last month's Victoria's Secret?",putting father home came back life want grab stuff mattress like last month victoria secret
+156,157,1,Pilot,1,1,Beth:,"It's fine, Davin.",fine davin
+159,160,1,Pilot,1,1,Beth:,"Look, I appreciate the stress you're under, but Morty was having trouble in school way before my dad moved in, and the only influence I can see Rick having is that, for the first time in his life, Morty has a friend.  ",look appreciate stress morty trouble school way dad moved influence see rick first time life morty friend
+161,162,1,Pilot,1,1,Beth:,"Uh, yeah, maybe I am. I'm my father's daughter. I'm smart. Why do you think I'm a heart surgeon?",uh yeah maybe father daughter smart think heart surgeon
+194,195,1,Pilot,1,1,Beth:,What? Why didn't you notify us?,notify us
+198,199,1,Pilot,1,1,Beth:,Summer?,summer
+246,247,1,Pilot,1,1,Beth:,"Dad, how could you make my son miss an entire semester of school? I mean, it's not like he's a hot girl. He can't just bail on his life and set up shop in someone else's.",dad could make son miss entire semester school mean like hot girl ca bail life set shop someone else
+248,249,1,Pilot,1,1,Beth:,We're moving you to a nursing home.,moving nursing home
+251,252,1,Pilot,1,1,Beth:,What does that mean?,mean
+256,257,1,Pilot,1,1,Beth:,"Oh, don't high-road us, dad. You know fully well that Morty is the last child that needs to be missing classes.",oh high-road us dad know fully well morty last child needs missing classes
+266,267,1,Pilot,1,1,Beth:,What the hell?,hell
+272,273,1,Pilot,1,1,Beth:,"Jerry, I don't want whatever's happening here to stop.",jerry want whatever happening stop
+278,279,1,Pilot,1,1,Beth:,You know what? Okay.  ,know okay
+379,380,1,Lawnmower_Dog,2,2,Beth :,"Oh, yeah. This should play out just fine.",oh yeah play fine
+503,504,1,Lawnmower_Dog,2,2,Beth :,"G-Go on, um, one of our famous midnight family walks!",g-go um one famous midnight family walks
+635,636,1,Lawnmower_Dog,2,2,Beth:,Jerry?,jerry
+637,638,1,Lawnmower_Dog,2,2,Beth:,"Oh, Jerry. You mean because it had dogs in it.",oh jerry mean dogs
+653,654,1,Anatomy_Park_(episode),3,3,Beth:,Alive? For your parents? ,alive parents
+656,657,1,Anatomy_Park_(episode),3,3,Beth:,Hey man! ,hey man
+670,671,1,Anatomy_Park_(episode),3,3,Beth:,"Aw, Dad... That is so sweet. ",aw dad sweet
+687,688,1,Anatomy_Park_(episode),3,3,Beth:,"Holy crap, Joyce. That's amazing. ",holy crap joyce amazing
+710,711,1,Anatomy_Park_(episode),3,3,Beth:,"Hey Dad, where's Morty? ",hey dad morty
+772,773,1,Anatomy_Park_(episode),3,3,Beth:,"Whatever it is, it's beautiful Leonard.   And we support you. ",whatever beautiful leonard support
+889,890,1,Anatomy_Park_(episode),3,3,Beth:,"Jerry, come on. This is what you wanted. ",jerry come wanted
+891,892,1,Anatomy_Park_(episode),3,3,Beth:,"What? Jerry, let that stuff go, okay? I'm sorry I was a bitch earlier. Let's just be here. ",jerry let stuff go okay sorry bitch earlier let
+1038,1039,1,Anatomy_Park_(episode),3,3,Beth:,Jerry doesn't know what he's missing. ,jerry know missing
+1040,1041,1,Anatomy_Park_(episode),3,3,Beth:,"I dunno, Jacob. Jerry got an invitation to be alive today, and he rejected it. I don't know if our marriage will-- ",dunno jacob jerry got invitation alive today rejected know marriage
+1044,1045,1,Anatomy_Park_(episode),3,3,Beth:,Oh god. ,oh god
+1047,1048,1,Anatomy_Park_(episode),3,3,Beth:,Jerry! ,jerry
+1215,1216,1,M._Night_Shaym-Aliens!,4,4,Simulation Beth:,  Hello. ,hello
+1217,1218,1,M._Night_Shaym-Aliens!,4,4,Simulation Beth:,Who just sold the apples campaign? ,sold apples campaign
+1219,1220,1,M._Night_Shaym-Aliens!,4,4,Simulation Beth:,Yes. ,yes
+1221,1222,1,M._Night_Shaym-Aliens!,4,4,Simulation Beth:,Okay. ,okay
+1223,1224,1,M._Night_Shaym-Aliens!,4,4,Simulation Beth:,Yes. ,yes
+1396,1397,1,Meeseeks_and_Destroy,5,5,Beth:,"Morty, please. I love you, sweetheart. ",morty please love sweetheart
+1418,1419,1,Meeseeks_and_Destroy,5,5,Beth:,"Dad, the dishwasher's doing that thing again. ",dad dishwasher thing
+1420,1421,1,Meeseeks_and_Destroy,5,5,Beth:,No. The opposite. Can you fix it? ,opposite fix
+1443,1444,1,Meeseeks_and_Destroy,5,5,Beth:,So many possibilities. ,many possibilities
+1453,1454,1,Meeseeks_and_Destroy,5,5,Beth:,I want I want to be a more complete woman!  ,want want complete woman
+1476,1477,1,Meeseeks_and_Destroy,5,5,Beth:,"I got pregnant at 17. I mean, I still put myself through veterinary school. Yes, I'm successful, but what if I hadn't...- - I'm just saying, somewhere along the way, I lost that wide-eyed girl from muskegon. ",got pregnant 17. mean still put veterinary school yes successful saying somewhere along way lost wide-eyed girl muskegon
+1478,1479,1,Meeseeks_and_Destroy,5,5,Beth:,"Well, her waistline isn't. ",well waistline
+1480,1481,1,Meeseeks_and_Destroy,5,5,Beth:,You're saying I should leave Jerry.   I can't believe I'm finally having this conversation. ,saying leave jerry ca believe finally conversation
+1483,1484,1,Meeseeks_and_Destroy,5,5,Beth:,I think I've had enough. ,think enough
+1523,1524,1,Meeseeks_and_Destroy,5,5,Beth:,The most important love you can receive is from yourself.  ,important love receive
+1531,1532,1,Meeseeks_and_Destroy,5,5,Beth:,"Our Meeseeks have been gone for hours, Jerry.  ",meeseeks gone hours jerry
+1533,1534,1,Meeseeks_and_Destroy,5,5,Beth:,Notice anything different? ,notice anything different
+1560,1560,1,Meeseeks_and_Destroy,5,5,Beth:,I'm going out. ,going
+1562,1562,1,Meeseeks_and_Destroy,5,5,Beth:,"Well, you're busy. I'm hungry. I thought I'd go out. Do you want me to be happy or do you want me to be in prison? ",well busy hungry thought go want happy want prison
+1635,1635,1,Meeseeks_and_Destroy,5,5,Beth:,"Jerry, maybe it's time I take that trip I always talk about. ",jerry maybe time take trip always talk
+1637,1637,1,Meeseeks_and_Destroy,5,5,Beth:,"I don't know, man. Italy. Greece. Argentina.  ",know man italy greece argentina
+1642,1642,1,Meeseeks_and_Destroy,5,5,Beth:,"Run, Jerry! ",run jerry
+1664,1664,1,Meeseeks_and_Destroy,5,5,Beth:,"Jerry, turn around. Straighten your back. Bend your knees. Bend them. Square your shoulders. Take a deep breath. I love you.  ",jerry turn around straighten back bend knees bend square shoulders take deep breath love
+1688,1688,1,Meeseeks_and_Destroy,5,5,Beth:,"Jerry, look. We don't have a perfect marriage, but I'm not going anywhere. When we were in that freezer, I realized the Meeseeks are like the guys I went to high school with willing to say anything to ""complete their task."" ",jerry look perfect marriage going anywhere freezer realized meeseeks like guys went high school willing say anything `` complete task
+1690,1690,1,Meeseeks_and_Destroy,5,5,Beth:,The difference is you didn't disappear afterwards.  ,difference disappear afterwards
+1692,1692,1,Meeseeks_and_Destroy,5,5,Beth:,Yeah...  ,yeah
+1694,1694,1,Meeseeks_and_Destroy,5,5,Beth:,"Uh, your Meeseeks box happened. They went crazy when they couldn't take two strokes off Jerry's golf game. He felt terrible. ",uh meeseeks box happened went crazy could take two strokes jerry golf game felt terrible
+1696,1696,1,Meeseeks_and_Destroy,5,5,Beth:,Dad!  ,dad
+1741,1741,1,Rick_Potion_9,6,6,Beth:,"Ugh, what kind of question is that?",ugh kind question
+1743,1743,1,Rick_Potion_9,6,6,Beth:,"Jerry, do you want homeless people to have homes?",jerry want homeless people homes
+1745,1745,1,Rick_Potion_9,6,6,Beth:,Are you gonna build them?,gonna build
+1747,1747,1,Rick_Potion_9,6,6,Beth:,"Then what good was the ""yes""?",good `` yes
+1749,1749,1,Rick_Potion_9,6,6,Beth:,"Loving you is work, Jerry -- hard work, like building a homeless shelter -- nobody wants to say no to doing it, but some people put the work in, So, what do you say? Do you see me working here? Does this conversation seem tedious to me?",loving work jerry hard work like building homeless shelter nobody wants say people put work say see working conversation seem tedious
+1751,1751,1,Rick_Potion_9,6,6,Beth:,"Then I obviously sort of love you, don't I? So stop asking, and maybe I'll love you more, Crap, they need me at the horse hospital,",obviously sort love stop asking maybe love crap need horse hospital
+1753,1753,1,Rick_Potion_9,6,6,Beth:,"The racetrack had a starlight derby, There was a seven-horse collision, and Davin's there alone,",racetrack starlight derby seven-horse collision davin alone
+1839,1839,1,Rick_Potion_9,6,6,Beth:,"Yes, it's satisfying work,",yes satisfying work
+1842,1842,1,Rick_Potion_9,6,6,Beth:,"Hmm, uh, what are you doing?",hmm uh
+1845,1845,1,Rick_Potion_9,6,6,Beth:,"Oh, ha, um, hey, I b-- I'd better get going, Um, Jerry's been texting some pretty high-maintenance stuff,",oh ha um hey b better get going um jerry texting pretty high-maintenance stuff
+1847,1847,1,Rick_Potion_9,6,6,Beth:,"What is it, Davin?",davin
+1851,1851,1,Rick_Potion_9,6,6,Beth:,"Let go of me, Davin!",let go davin
+1858,1858,1,Rick_Potion_9,6,6,Beth:,Jerry! Thank god!,jerry thank god
+1860,1860,1,Rick_Potion_9,6,6,Beth:,"Thank you, Jerry, Thank you,",thank jerry thank
+1873,1873,1,Rick_Potion_9,6,6,Beth:,"If it were, you could call me Ernest Hemingway,",could call ernest hemingway
+1882,1882,1,Rick_Potion_9,6,6,Beth:,"Oh, not fair? Give me a break, He is a selfish, irresponsible ass, and he left my mother, A real man stands by his woman,",oh fair give break selfish irresponsible ass left mother real man stands woman
+1911,1911,1,Rick_Potion_9,6,6,Beth:,"Sometimes, But, I'm ashamed to admit, now that they're gone, I'm finally happy,",sometimes ashamed admit gone finally happy
+1933,1933,1,Raising_Gazorpazorp,7,7,Beth:,"Intervening with puberty? You'll turn him into Ralph Fiennes in ""Red Dragon,"" He's at that age, Let's just be proud of him,",intervening puberty turn ralph fiennes `` red dragon age let proud
+1936,1936,1,Raising_Gazorpazorp,7,7,Beth:,"Okay, now if we hear squeaking, we intervene,  ",okay hear squeaking intervene
+1940,1940,1,Raising_Gazorpazorp,7,7,Beth:,"Okay, unacceptable! Oh,",okay unacceptable oh
+1943,1943,1,Raising_Gazorpazorp,7,7,Beth:,"""Uh-oh""? What is that?!",`` uh-oh
+1945,1945,1,Raising_Gazorpazorp,7,7,Beth:,"Grandpa Rick, no, no!",grandpa rick
+1947,1947,1,Raising_Gazorpazorp,7,7,Beth:,"Dad, What do you think you're doing?!",dad think
+1953,1953,1,Raising_Gazorpazorp,7,7,Beth:,"Well, dad, it's a living thing, and it's half human,",well dad living thing half human
+1955,1955,1,Raising_Gazorpazorp,7,7,Beth:,"Jerry, majoring in civics was your mistake, Don't punish for it,",jerry majoring civics mistake punish
+1960,1960,1,Raising_Gazorpazorp,7,7,Beth:,"They always do,",always
+1962,1962,1,Raising_Gazorpazorp,7,7,Beth:,"Why, Jerry? Why expend the effort?",jerry expend effort
+1980,1980,1,Raising_Gazorpazorp,7,7,Beth:,"Then you put it down and let it cry itself out,",put let cry
+1982,1982,1,Raising_Gazorpazorp,7,7,Beth:,"Stop filling it with your own insecurity, You're gonna turn it into Morty -- uh, mm -- more -- more -- more -- more of you,",stop filling insecurity gonna turn morty uh mm
+1984,1984,1,Raising_Gazorpazorp,7,7,Beth:,"Listen to me, I am not rewarding this behavior,",listen rewarding behavior
+1987,1987,1,Raising_Gazorpazorp,7,7,Beth:,"At least we can agree on that,",least agree
+2068,2068,1,Raising_Gazorpazorp,7,7,Beth:,"Nice,",nice
+2149,2149,1,Raising_Gazorpazorp,7,7,Beth:,Dad? Summer? Where were you guys this whole time?,dad summer guys whole time
+2151,2151,1,Raising_Gazorpazorp,7,7,Beth:,"I was reading a newspaper,",reading newspaper
+2158,2158,1,Raising_Gazorpazorp,7,7,Beth:,"It's a thankless job, Morty, You did the best you could,",thankless job morty best could
+2163,2163,1,Rixty_Minutes,8,8,Beth:,"Hold on, ,,,Will you please,,, not marry me?",hold please marry
+2167,2167,1,Rixty_Minutes,8,8,Beth:,"Called it,",called
+2188,2188,1,Rixty_Minutes,8,8,Beth:,What in the hell?,hell
+2206,2206,1,Rixty_Minutes,8,8,Beth:,How is this possible?,possible
+2224,2224,1,Rixty_Minutes,8,8,Beth:,"Ladies first,",ladies first
+2228,2228,1,Rixty_Minutes,8,8,Beth:,Are we sure we want to do this -- look at our own alternate lives?,sure want look alternate lives
+2231,2231,1,Rixty_Minutes,8,8,Beth:,What do you see?,see
+2236,2236,1,Rixty_Minutes,8,8,Beth:,"Haven't we spent enough time on you? I'm performing surgery... but not on a horse -- on a human,",spent enough time performing surgery horse human
+2238,2238,1,Rixty_Minutes,8,8,Beth:,"I am a real surgeon,",real surgeon
+2243,2243,1,Rixty_Minutes,8,8,Beth:,"Well, you should select a different timeline, I mean, if your father and I achieved our dreams, there's a chance you weren't even born, That came out wrong, That came out very wrong,",well select different timeline mean father achieved dreams chance even born came wrong came wrong
+2247,2247,1,Rixty_Minutes,8,8,Beth:,"Yahtzee's fun, We love Yahtzee,",yahtzee fun love yahtzee
+2254,2254,1,Rixty_Minutes,8,8,Beth:,"Holy crap, I am winning a Nobel Prize,",holy crap winning nobel prize
+2258,2258,1,Rixty_Minutes,8,8,Beth:,"When two people create a life together, they set aside their previous lives as individuals,",two people create life together set aside previous lives individuals
+2260,2260,1,Rixty_Minutes,8,8,Beth:,"Oh, I get it, Now that you know you could have had it better, you resent me for holding you back,",oh get know could better resent holding back
+2262,2262,1,Rixty_Minutes,8,8,Beth:,What are you talking about?,talking
+2265,2265,1,Rixty_Minutes,8,8,Beth:,"Everyone thinks about it, Obviously, I'm the version of me that didn't do it, so you're welcome,",everyone thinks obviously version welcome
+2276,2276,1,Rixty_Minutes,8,8,Beth:,"You can't leave, You're 17,",ca leave 17
+2310,2310,1,Rixty_Minutes,8,8,Beth:,Did you really talk me out of the abortion?,really talk abortion
+2312,2312,1,Rixty_Minutes,8,8,Beth:,"I think, in my head, I was doing it all for the kids, And now the first kid is going to do something with turquoise,",think head kids first kid going something turquoise
+2314,2314,1,Rixty_Minutes,8,8,Beth:,"So we didn't do the kids any favors, So we should stay together for each other and ourselves or...",kids favors stay together
+2383,2383,1,Rixty_Minutes,8,8,Beth:,"You did it, Beth, You really nailed it, You're a surgeon -- a human surgeon, Yay, you win,  ",beth really nailed surgeon human surgeon yay win
+2387,2387,1,Rixty_Minutes,8,8,Beth:,Jerry? Jerry smith?,jerry jerry smith
+2395,2395,1,Rixty_Minutes,8,8,Beth:,"So, the hamster live inside the rectums of those people?",hamster live inside rectums people
+2409,2409,1,Something_Ricked_This_Way_Comes,9,9,Beth:,"Morty, I think it would be fun for you to work on a science project with your dad,",morty think would fun work science project dad
+2684,2684,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Beth:,"So dad, guess what tomorrow is...",dad guess tomorrow
+2686,2686,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Beth:,"No... well, it might be...",well might
+2688,2688,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Beth:,"Fine, but also, tomorrow is your one year anniversary back in our lives. I'm gonna make you flying saucer-shaped pancakes.",fine also tomorrow one year anniversary back lives gonna make flying saucer-shaped pancakes
+2693,2693,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Beth:,"Happy anniversary, dad!",happy anniversary dad
+2696,2696,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Beth:,"Nonsense, we couldn't be happier to have you around. I just wish I got to see more of you.",nonsense could happier around wish got see
+2704,2704,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Beth:,Dad!,dad
+2711,2711,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Beth:,"Wait, wh-wh-wh-what about Jerry?",wait wh-wh-wh-what jerry
+2715,2715,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Beth:,Our son's been abducted!,son abducted
+2801,2801,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Beth:,Who wants lemonade?,wants lemonade
+2805,2805,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Beth:,"Aww, thank buurp you!",aww thank buurp
+2852,2852,1,Close_Rick-counters_of_the_Rick_Kind,10,10,Beth:,Coffee time!,coffee time
+3026,3026,1,Ricksy_Business,11,11,Beth:,"Yes, we will have as much fun as possible on our... Titanic -themed getaway,",yes much fun possible titanic -themed getaway
+3028,3028,1,Ricksy_Business,11,11,Beth:,"Speaking of disasters, dad, we are leaving you in charge, here,",speaking disasters dad leaving charge
+3030,3030,1,Ricksy_Business,11,11,Beth:,"Hey, don't blow me off, I am drawing a line, okay? Any damage to this house or these children when we get back, and... n-no more adventures with Morty,",hey blow drawing line okay damage house children get back n-no adventures morty
+3062,3062,1,Ricksy_Business,11,11,Beth:,"Jerry, I'd love to just kick back with a margarita and read, Do you mind if I skip the whole ""King of the world"" bit?",jerry love kick back margarita read mind skip whole `` king world bit
+3064,3064,1,Ricksy_Business,11,11,Beth:,"Well, what about her? Excuse me, ma'am, Would you like to take my place in line?",well excuse would like take place line
+3066,3066,1,Ricksy_Business,11,11,Beth:,"We won't tell,",wo tell
+3208,3208,1,Ricksy_Business,11,11,Beth:,"  I am gonna go back to the room to finish my book, You should find that Lucy woman,",gonna go back room finish book find lucy woman
+3256,3256,1,Ricksy_Business,11,11,Beth:,"Bet you're glad I think kindles are dumb now, I can't help but feel a little guilty, I didn't peg Lucy for a rapist,",bet glad think kindles dumb ca help feel little guilty peg lucy rapist
+3258,3258,1,Ricksy_Business,11,11,Beth:,"What? Well, at least you got all this free stuff, Should be enough to satisfy your Titanic Jones for a while,",well least got free stuff enough satisfy titanic jones
+3260,3260,1,Ricksy_Business,11,11,Beth:,"Jerry, just leave the door,",jerry leave door
+3262,3262,1,Ricksy_Business,11,11,Beth:,"I don't care, Just leave it,",care leave
+3352,3352,2,A_Rickle_in_Time,1,12,Beth:,"Hi, dad. ",hi dad
+3354,3354,2,A_Rickle_in_Time,1,12,Beth:,"Summer, Morty, are you okay? ",summer morty okay
+3360,3360,2,A_Rickle_in_Time,1,12,Beth:,"Sweety, is your shirt on backwards? ",sweety shirt backwards
+3431,3431,2,A_Rickle_in_Time,1,12,Beth:,You realize they sing no matter how much you tip. ,realize sing matter much tip
+3433,3433,2,A_Rickle_in_Time,1,12,Beth:,Holy shit! What happened?  ,holy shit happened
+3435,3435,2,A_Rickle_in_Time,1,12,Beth:,W-what? ,w-what
+3438,3438,2,A_Rickle_in_Time,1,12,Beth:,It's still alive. ,still alive
+3440,3440,2,A_Rickle_in_Time,1,12,Beth:,"It's not an armadillo, asshole! ",armadillo asshole
+3442,3442,2,A_Rickle_in_Time,1,12,Beth:,"If we were near a hospital, I could treat it, but I-I think we have to just- ",near hospital could treat i-i think just-
+3446,3446,2,A_Rickle_in_Time,1,12,Beth:,Require different levels of skill to keep alive? ,require different levels skill keep alive
+3448,3448,2,A_Rickle_in_Time,1,12,Beth:,"Get the deer in the car, Jerry. ",get deer car jerry
+3478,3478,2,A_Rickle_in_Time,1,12,Beth:,"Emergency, wounded deer coming in. ",emergency wounded deer coming
+3482,3482,2,A_Rickle_in_Time,1,12,Beth:,"I'm a certified horse surgeon, and this deer needs medical attention. Nurse, please move that snake. ",certified horse surgeon deer needs medical attention nurse please move snake
+3484,3484,2,A_Rickle_in_Time,1,12,Beth:,"As a vet, I'm sure you know a deer is closer to a horse than you are to a doctor, so let's save the measuring for when our dicks are out, it's time to save a life! ",vet sure know deer closer horse doctor let save measuring dicks time save life
+3487,3487,2,A_Rickle_in_Time,1,12,Beth:,"That's odd, this deer's wounded.  ",odd deer wounded
+3489,3489,2,A_Rickle_in_Time,1,12,Beth:,I mean it's been shot. With a gun. ,mean shot gun
+3495,3495,2,A_Rickle_in_Time,1,12,Beth:,"In your dreams, bitch! Scalpel! ",dreams bitch scalpel
+3524,3524,2,A_Rickle_in_Time,1,12,Beth:,"You son of a bitch, you don't stop living until I SAY SO! ",son bitch stop living say
+3531,3531,2,A_Rickle_in_Time,1,12,Beth:,"Jerry, if you're not gonna help, get the bleep out of here! I will reach into heaven and yank your screaming deer soul back! ",jerry gonna help get bleep reach heaven yank screaming deer soul back
+3606,3606,2,A_Rickle_in_Time,1,12,Beth:,Isn't there a kitten somewhere that needs a manicure? ,kitten somewhere needs manicure
+3656,3656,2,A_Rickle_in_Time,1,12,Beth:,Whatever. How petty would I have to be to care less about an animal's life than my own ego? ,whatever petty would care less animal life ego
+3658,3658,2,A_Rickle_in_Time,1,12,Beth:,Where are we going? ,going
+3660,3660,2,A_Rickle_in_Time,1,12,Beth:,Where's the helicopter? ,helicopter
+3662,3662,2,A_Rickle_in_Time,1,12,Beth:,But the top deer surgeon... ,top deer surgeon
+3665,3665,2,A_Rickle_in_Time,1,12,Beth:,I need five minutes. ,need five minutes
+3667,3667,2,A_Rickle_in_Time,1,12,Beth:,"Jerry, this was the most romantic weekend I've ever had. ",jerry romantic weekend ever
+3708,3708,2,A_Rickle_in_Time,1,12,Beth:,"Hey guys, we're home.",hey guys home
+3714,3714,2,A_Rickle_in_Time,1,12,Beth:,  I'm gonna pee my pants. ,gonna pee pants
+3717,3717,2,A_Rickle_in_Time,1,12,Beth:,I'm gonna pee-hee-hee. ,gonna pee-hee-hee
+3863,3863,2,Mortynight_Run,2,13,Daycare Beth:,Jerry! ,jerry
+3866,3866,2,Mortynight_Run,2,13,Daycare Beth:,"I love you, Jerry! ",love jerry
+3868,3868,2,Mortynight_Run,2,13,Daycare Beth:,Who wants to come watch Midnight Run with director's commentary on? ,wants come watch midnight run director commentary
+3870,3870,2,Mortynight_Run,2,13,Daycare Beth:,First one there gets to adjust the picture settings! ,first one gets adjust picture settings
+4167,4167,2,Auto_Erotic_Assimilation,3,14,Beth:,"Jerry, what are you- what are you doing in here? ",jerry you-
+4169,4169,2,Auto_Erotic_Assimilation,3,14,Beth:,But you can't go in the garage when Rick's not here. ,ca go garage rick
+4171,4171,2,Auto_Erotic_Assimilation,3,14,Beth:,"Well, he doesn't like it.",well like
+4173,4173,2,Auto_Erotic_Assimilation,3,14,Beth:,What is that supposed to mean?,supposed mean
+4176,4176,2,Auto_Erotic_Assimilation,3,14,Beth:,"Oh, stop affecting that stupid hip-hop dialect! ",oh stop affecting stupid hip-hop dialect
+4180,4180,2,Auto_Erotic_Assimilation,3,14,Beth:,"  I don't know, let's just leave! ",know let leave
+4183,4183,2,Auto_Erotic_Assimilation,3,14,Beth:,"You don't know it was him!   Anyway, we're not supposed to be in here!",know anyway supposed
+4220,4220,2,Auto_Erotic_Assimilation,3,14,Beth:,"Oh, you know my dad. Once he puts his mind to something...",oh know dad puts mind something
+4224,4224,2,Auto_Erotic_Assimilation,3,14,Beth:,Jerry!,jerry
+4226,4226,2,Auto_Erotic_Assimilation,3,14,Beth:,"Okay, you're just making stuff up now.",okay making stuff
+4260,4260,2,Auto_Erotic_Assimilation,3,14,Beth:,"Goddamn it, stop.",goddamn stop
+4338,4338,2,Auto_Erotic_Assimilation,3,14,Beth:,"Jerry, stop! Please, okay, we weren't even supposed to be down here. If we confront him about this-",jerry stop please okay even supposed confront this-
+4340,4340,2,Auto_Erotic_Assimilation,3,14,Beth:,Oh listen to you relish the idea that my genius father is a bad person! Step out of your ego for a second and look at this thing! It's a monster! He might have it chained up so that it doesn't eat the planet!,oh listen relish idea genius father bad person step ego second look thing monster might chained eat planet
+4342,4342,2,Auto_Erotic_Assimilation,3,14,Beth:,He's probably racing to cure its space aids!,probably racing cure space aids
+4344,4344,2,Auto_Erotic_Assimilation,3,14,Beth:,He's protecting it!,protecting
+4386,4386,2,Auto_Erotic_Assimilation,3,14,Beth:,You're the worst!,worst
+4390,4390,2,Auto_Erotic_Assimilation,3,14,Beth:,You think supporting the family is about supporting you emotionally...,think supporting family supporting emotionally
+4392,4392,2,Auto_Erotic_Assimilation,3,14,Beth:,"...but you're unsupportable! Because it's never enough, Jerry!",unsupportable never enough jerry
+4394,4394,2,Auto_Erotic_Assimilation,3,14,Beth:,It will never be enough support to satisfy you! And you don't even know what it's like...,never enough support satisfy even know like
+4396,4396,2,Auto_Erotic_Assimilation,3,14,Beth:,...to be afraid of losing anything because you cling and you cling and you cling...,afraid losing anything cling cling cling
+4400,4400,2,Auto_Erotic_Assimilation,3,14,Beth:,Oh my god!,oh god
+4402,4402,2,Auto_Erotic_Assimilation,3,14,Beth and Jerry:,Aah!,aah
+4430,4430,2,Auto_Erotic_Assimilation,3,14,Beth:,"Dad...   I... um... Jerry and I were looking for our weed whacker, and found your subterranean lair... and your alien prisoner. And... he got away. And I know I sound like mom but I can't sacrifice this whole family's safety just because I'm afraid you'll leave again, so no more alien prisoners, and, no more subterranean excavation without consulting us. ",dad um jerry looking weed whacker found subterranean lair alien prisoner got away know sound like mom ca sacrifice whole family safety afraid leave alien prisoners subterranean excavation without consulting us
+4432,4432,2,Auto_Erotic_Assimilation,3,14,Beth:,...Okay? Y-y-y-y-Okay like you're gonna quietly teleport somewhere and never come back?,okay y-y-y-y-okay like gonna quietly teleport somewhere never come back
+4461,4461,2,Total_Rickall,4,15,Beth:,"Steve, you're so sweet! ",steve sweet
+4493,4493,2,Total_Rickall,4,15,Beth:,"Dad, why does our house have blast shields? ",dad house blast shields
+4496,4496,2,Total_Rickall,4,15,Beth:,"Jerry, buttons don't work better if you hit them harder, and foam fists don't make you strong. ",jerry buttons work better hit harder foam fists make strong
+4511,4511,2,Total_Rickall,4,15,Beth:,But how did you know it was Nicky? ,know nicky
+4513,4513,2,Total_Rickall,4,15,Beth:,So we can't trust any of our memories now? Nicky was the reason we found that old nazi submarine. Did that not even happen? ,ca trust memories nicky reason found old nazi submarine even happen
+4529,4529,2,Total_Rickall,4,15,Beth:,"Don't worry, Jerry. Just relax. We called the fire department. ",worry jerry relax called fire department
+4540,4540,2,Total_Rickall,4,15,Beth:,Aww. Mr. Beauregard. ,aww mr. beauregard
+4543,4543,2,Total_Rickall,4,15,Beth:,"Oh, wait, don't leave without letting photography raptor take a picture.   ",oh wait leave without letting photography raptor take picture
+4550,4550,2,Total_Rickall,4,15,Beth:,"Uh, dad, that's like 10 people. ",uh dad like 10 people
+4555,4555,2,Total_Rickall,4,15,Beth:,"That's it. Photos. Hard evidence.   You're not in any of my photos, Mr. Poopybutthole. ",photos hard evidence photos mr. poopybutthole
+4631,4631,2,Total_Rickall,4,15,Beth:,  Too many. ,many
+4641,4641,2,Total_Rickall,4,15,Beth:,And don't forget his incredibly vague back story. ,forget incredibly vague back story
+4643,4643,2,Total_Rickall,4,15,Beth:,"Oh, are you, dad? Are you? ",oh dad
+4668,4668,2,Total_Rickall,4,15,Beth:,"Uh, roller coasters aren't bad, Mrs. Refrigerator. They're thrilling. And you've been a perfect companion to me my entire life. ",uh roller coasters bad mrs. refrigerator thrilling perfect companion entire life
+4676,4676,2,Total_Rickall,4,15,Beth:,"Hmm? Yeah, yeah, yes. What time? ",hmm yeah yeah yes time
+4678,4678,2,Total_Rickall,4,15,Beth:,"buurp   What're you, my life coach? ",buurp life coach
+4680,4680,2,Total_Rickall,4,15,Beth:,"Sweetheart, are you okay? I didn't mean to -- ",sweetheart okay mean
+4682,4682,2,Total_Rickall,4,15,Beth:,"It's not, don't overreact. I can clean it up. ",overreact clean
+4686,4686,2,Total_Rickall,4,15,Beth:,"Thank you, sweetie. ",thank sweetie
+4688,4688,2,Total_Rickall,4,15,Beth:,I thought it was too good to be true that we'd have compatible kidneys.   ,thought good true compatible kidneys
+4710,4710,2,Total_Rickall,4,15,Beth:,Whoa. What the hell? ,whoa hell
+4712,4712,2,Total_Rickall,4,15,Beth:,Open the door! Open the door! Open the door! ,open door open door open door
+4714,4714,2,Total_Rickall,4,15,Beth:,  Get out here and help me! ,get help
+4717,4717,2,Total_Rickall,4,15,Beth:,"Ugh. Sorry, Jerry. You're real. ",ugh sorry jerry real
+4719,4719,2,Total_Rickall,4,15,Beth:,"Yeah, but you're real. ",yeah real
+4721,4721,2,Total_Rickall,4,15,Beth:,"Uh, uh, I need time to forget about Sleepy Gary. ",uh uh need time forget sleepy gary
+4729,4729,2,Total_Rickall,4,15,Beth:,"Wait, but I -- ",wait
+4734,4734,2,Total_Rickall,4,15,Beth:,I-I thought -- ,i-i thought
+4742,4742,2,Total_Rickall,4,15,Beth:,"Oh, he -- he's looking a lot better. ",oh looking lot better
+4744,4744,2,Total_Rickall,4,15,Beth:,"Is, um, is he mad at me? ",um mad
+4747,4747,2,Total_Rickall,4,15,Beth:,Can he have visitors? ,visitors
+4773,4773,2,Get_Schwifty,5,16,Beth:,"It's not God, Summer. ",god summer
+4775,4775,2,Get_Schwifty,5,16,Beth:,"Shut up, Jerry. ",shut jerry
+4778,4778,2,Get_Schwifty,5,16,Beth:,"Dad, what do you know about this? ",dad know
+4783,4783,2,Get_Schwifty,5,16,Beth:,How is praying going to help? ,praying going help
+4875,4875,2,Get_Schwifty,5,16,Beth:,"Now hold on a second, let's be rational about this. ",hold second let rational
+4877,4877,2,Get_Schwifty,5,16,Beth:,"No, I'm... I'm just saying, we don't know if there's a cause-effect relationship -- ",saying know cause-effect relationship
+4879,4879,2,Get_Schwifty,5,16,Beth:,"Oh, God, what's going on now? ",oh god going
+4888,4888,2,Get_Schwifty,5,16,Beth:,Holy CRAP! ,holy crap
+4932,4932,2,Get_Schwifty,5,16,Beth:,We should pack up and leave town now. ,pack leave town
+4937,4937,2,Get_Schwifty,5,16,Beth:,"Yeah, sure. Wait, what?? ",yeah sure wait
+4939,4939,2,Get_Schwifty,5,16,Beth:,Dinner sounds nice. ,dinner sounds nice
+4972,4972,2,Get_Schwifty,5,16,Jerry and Beth:,Praise be the... ,praise
+4977,4977,2,Get_Schwifty,5,16,Beth:,I don't know what to say. Summer is doing really well here. ,know say summer really well
+4980,4980,2,Get_Schwifty,5,16,Beth:,She's not getting pregnant or doing drugs or missing curfew... ,getting pregnant drugs missing curfew
+4982,4982,2,Get_Schwifty,5,16,Beth:,That's not our business as long as Summer is thriving! ,business long summer thriving
+4985,4985,2,Get_Schwifty,5,16,Beth:,"That's wonderful, Summer! ",wonderful summer
+5035,5035,2,Get_Schwifty,5,16,Beth:,The world? ,world
+5039,5039,2,Get_Schwifty,5,16,Beth:,That's my dream! That's my dream. ,dream dream
+5041,5041,2,Get_Schwifty,5,16,Beth:,Absolutely not. ,absolutely
+5043,5043,2,Get_Schwifty,5,16,Beth:,"We've been waiting 16 years for our daughter to respect us, but the key is, it has to be ""our"" daughter, not this person she's become. ",waiting 16 years daughter respect us key `` daughter person become
+5045,5045,2,Get_Schwifty,5,16,Beth:,"  And I'm lucky to have you and I never tell you that! You know, we will come out of this stronger as a family! ",lucky never tell know come stronger family
+5047,5047,2,Get_Schwifty,5,16,Beth:,"Please don't do this, please don't do this! Summer! ",please please summer
+5128,5128,2,Get_Schwifty,5,16,Beth:,We should go get him. ,go get
+5207,5207,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,GOOD LORD! WHO DOES SOMETHING LIKE THAT?,good lord something like
+5219,5219,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,JERRY! DO YOU KNOW WHAT YOU JUST SAID TO OUR DAUGHTER?,jerry know said daughter
+5221,5221,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,TO A CONVERSATION ABOUT VAMPIRES?!,conversation vampires
+5223,5223,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"OH, HERE WE GO, RIGHT TO THE VICTIM ROLE,",oh go right victim role
+5228,5228,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"WELL, WE WANT TO MAKE IT WORK, IF WE CAN, IT'S JUST --",well want make work
+5235,5235,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"WHICH CLEARLY IMPLIES THAT I'M NOT,",clearly implies
+5237,5237,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"OH IS THAT HOW YOU'RE GONNA TRY TO WIN, BY IMPLYING I'M COMPETITIVE?",oh gonna try win implying competitive
+5239,5239,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"MY SHOE FITS UP YOUR ASS,",shoe fits ass
+5243,5243,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"DON'T INSULT MY FATHER, HE'S THE REASON OUR KIDS ARE ONLY HALF-STUPID,",insult father reason kids half-stupid
+5248,5248,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,WHAT THE HELL IS THAT?! TAKE THAT BACK! YOU DO NOT THINK THAT ABOUT ME!,hell take back think
+5251,5251,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"SCAN HARD, HE'S DEAD TO ME,",scan hard dead
+5255,5255,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"READ IT AND WEEP, BITCH,",read weep bitch
+5309,5309,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"OH, RIGHT, BLAME THIS ON US,",oh right blame us
+5313,5313,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"WELL, THIS IS JUST BAD COUPLES' THERAPY,",well bad couples therapy
+5319,5319,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"THERE'S GOTTA BE A WAY TO CONTACT MY DAD, LET'S FIND A CONTROL ROOM OR SOMETHING,",gotta way contact dad let find control room something
+5324,5324,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"YOU STAY PUT, JERRY, I'LL SEND HELP, IF I MAKE IT,",stay put jerry send help make
+5326,5326,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"JERRY, I BELIEVE THAT, IF YOU HIDE BY YOURSELF, YOU MIGHT SURVIVE AND I BELIEVE I, BY MYSELF, HAVE A SHOT OF GETTING OUT OF HERE, BUT THE TWO OF US, TOGETHER? I DON'T KNOW, LOOK, MAYBE THE SHRINK WAS RIGHT, GOOD LUCK,",jerry believe hide might survive believe shot getting two us together know look maybe shrink right good luck
+5328,5328,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"ALL RIGHT, NOW, YOU LISTEN TO ME, OH! OR DON'T,",right listen oh
+5357,5357,2,Big_Trouble_in_Little_Sanchez,7,18,Monster Beth:,"STAY,",stay
+5358,5358,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,WHAT DO YOU WANT?,want
+5359,5359,2,Big_Trouble_in_Little_Sanchez,7,18,Monster Beth:,"JERRYS,",jerrys
+5360,5360,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"YOU WANT JERRY? I DON'T EVEN WANT JERRY,",want jerry even want jerry
+5361,5361,2,Big_Trouble_in_Little_Sanchez,7,18,Monster Beth:,"I WANT JERRYS, WAAHEE! AN ARMY,",want jerrys waahee army
+5362,5362,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"  AN ARMY OF JERRYS,",army jerrys
+5363,5363,2,Big_Trouble_in_Little_Sanchez,7,18,Monster Beth:,"THE VALUE OF HIS SUBSERVIENCE IS WASTED ON YOU, I WILL USE IT TO DOMINATE THE UNIVERSE,",value subservience wasted use dominate universe
+5364,5364,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"AH HA HA, BOY, JERRY MUST THINK I'M PRETTY STUPID, FOR YOU TO BE THIS STUPID, WOULDN'T IT MAKE MORE SENSE TO PUT MY DUMBASS HUSBAND IN THIS CHAIR, SO YOU CAN MAKE AN ARMY OF YO BADASS SELF?",ah ha ha boy jerry must think pretty stupid stupid would make sense put dumbass husband chair make army yo badass self
+5365,5365,2,Big_Trouble_in_Little_Sanchez,7,18,Monster Beth:,"  THERE COULD NEVER BE MORE THAN ONE OF ME, I'M THE STRONGEST, SMARTEST BEING ALIVE BECAUSE JERRY THINKS YOU'RE THAT MUCH STRONGER AND SMARTER THAN YOU ARE!",could never one strongest smartest alive jerry thinks much stronger smarter
+5366,5366,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"OKAY, OUCH,",okay ouch
+5385,5385,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,JERRY!,jerry
+5411,5411,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"JERRY, YOU CAN'T BEND METAL,",jerry ca bend metal
+5413,5413,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,HOW CAN I DO THAT WHILE I'M WATCHING YOU TOTALLY FAIL TO BEND METAL?,watching totally fail bend metal
+5417,5417,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"OH, IT HURTS! OH, GOD,",oh hurts oh god
+5418,5418,2,Big_Trouble_in_Little_Sanchez,7,18,Goddess Beth:,"STOP, THIS REPRESENTATION DISPLEASES ME, AAAH!",stop representation displeases aaah
+5419,5419,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"GOOD LORD, HOW DID YOU...?",good lord
+5421,5421,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"NOT SUCH A STUPID WORM NOW, ARE YOU?",stupid worm
+5423,5423,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"UGH, IT'S -- NEVER MIND, I LOVE YOU,",ugh never mind love
+5437,5437,2,Big_Trouble_in_Little_Sanchez,7,18,Beth:,"AT LEAST UNTIL MORTY HAS GRADUATED HIGH SCHOOL, OH, MM,  ",least morty graduated high school oh mm
+5820,5820,2,Look_Who%27s_Purging_Now,9,20,Beth:,"JERRY, WHAT IS ""TADDI MASON LLC,"" AND WHY IS OUR PHONE BILL $700?",jerry `` taddi mason llc phone bill 700
+5833,5833,2,Look_Who%27s_Purging_Now,9,20,Beth:,"JERRY, GET A JOB, ",jerry get job
+5835,5835,2,The_Wedding_Squanchers,10,21,Beth:,"JERRY, GET A JOB,",jerry get job
+5856,5856,2,The_Wedding_Squanchers,10,21,Beth:,"NO, HOLD ON, STAY, COURIER FLAPS,",hold stay courier flaps
+5858,5858,2,The_Wedding_Squanchers,10,21,Beth:,"DAD, YOU HAVE A FRIEND THAT'S GETTING MARRIED, THAT'S A BIG DEAL,",dad friend getting married big deal
+5864,5864,2,The_Wedding_Squanchers,10,21,Beth:,"OH, GOD! JERRY!",oh god jerry
+5866,5866,2,The_Wedding_Squanchers,10,21,Beth:,WHERE IS IT TAKING HIM?,taking
+5874,5874,2,The_Wedding_Squanchers,10,21,Beth:,"YOU'RE LANGUAGE HAS THE WORD ""SQUANCH"" IN IT A LOT, DOESN'T THAT BECOME TEDIOUS AND WORN OUT, LIKE THE SMURF THING?",language word `` squanch lot become tedious worn like smurf thing
+5876,5876,2,The_Wedding_Squanchers,10,21,Beth:,"OH, OKAY, I SQUANCH MY FAMILY,",oh okay squanch family
+5878,5878,2,The_Wedding_Squanchers,10,21,Beth:,"WHAT, I DO, I SQUANCH MY FAMILY,",squanch family
+5881,5881,2,The_Wedding_Squanchers,10,21,Beth:,"YOU'RE AT A WEDDING, GO CHANGE,",wedding go change
+5888,5888,2,The_Wedding_Squanchers,10,21,Beth:,"OUR PLEASURE,",pleasure
+5892,5892,2,The_Wedding_Squanchers,10,21,Beth:,"JESUS, DAD,",jesus dad
+5896,5896,2,The_Wedding_Squanchers,10,21,Beth:,"JERRY, STOP NETWORKING, WE'RE IN SPACE,",jerry stop networking space
+5898,5898,2,The_Wedding_Squanchers,10,21,Beth:,"THIS IS THE CLOSEST I'VE EVER GOTTEN TO THIS PART OF MY FATHER'S LIFE, I DON'T WANT TO BLOW IT,",closest ever gotten part father life want blow
+5900,5900,2,The_Wedding_Squanchers,10,21,Beth:,"YOU SAY YOU GET IT, BUT I'M SCARED YOU'LL KEEP DOING IT, LOOK, HERE'S SOME HUMANS YOU CAN PRACTICE ON,",say get scared keep look humans practice
+5908,5908,2,The_Wedding_Squanchers,10,21,Beth:,"GIVE US ONE SECOND,",give us one second
+5910,5910,2,The_Wedding_Squanchers,10,21,Beth:,WERE YOU BORN WITH YOUR FEET IN YOUR MOUTH?,born feet mouth
+5912,5912,2,The_Wedding_Squanchers,10,21,Beth:,"I WANT YOU TO STAND IN THE CORNER AND FACE THE CORNER AND TALK TO NOBODY,",want stand corner face corner talk nobody
+5924,5924,2,The_Wedding_Squanchers,10,21,Beth:,"OH, IT SOUNDS LIKE YOU AND MY DAD HAVE A LONG HISTORY TOGETHER, WISH I COULD SAY THE SAME,",oh sounds like dad long history together wish could say
+5926,5926,2,The_Wedding_Squanchers,10,21,Beth:,"MUST BE NICE, UM, I USED TO HAVE TO DRAW HIM INTO FAMILY PHOTOS WITH A CRAYON,",must nice um used draw family photos crayon
+5928,5928,2,The_Wedding_Squanchers,10,21,Beth:,"I GUESS I SHOULD BE HAPPY FOR YOU, I MEAN, GREAT, YOU GUYS GOT TO HANG OUT, I HOPE YOU HAD A BLAST,",guess happy mean great guys got hang hope blast
+5930,5930,2,The_Wedding_Squanchers,10,21,Beth:,"I DON'T KNOW IF YOU CAN APPRECIATE WHAT IT MEANS TO GROW UP WITHOUT A FATHER, BUT --",know appreciate means grow without father
+5932,5932,2,The_Wedding_Squanchers,10,21,Beth:,"ANNND DURING THAT TIME, I DON'T SUPPOSE HE EVER MENTIONED HIS DAUGHTER, ARE THOSE BABY QUICHES?",annnd time suppose ever mentioned daughter baby quiches
+5934,5934,2,The_Wedding_Squanchers,10,21,Beth:,"LIKE TALKING TO A BRICK WALL,",like talking brick wall
+5944,5944,2,The_Wedding_Squanchers,10,21,Beth:,"AWW,",aww
+5951,5951,2,The_Wedding_Squanchers,10,21,Beth:,"OH, DAD,",oh dad
+5965,5965,2,The_Wedding_Squanchers,10,21,Beth:,"I... DON'T GET THE METAPHOR,",get metaphor
+5986,5986,2,The_Wedding_Squanchers,10,21,Beth:,DAD!,dad
+6000,6000,2,The_Wedding_Squanchers,10,21,Beth:,"LOOK, I THINK WE'VE ALL HAD A TOUGH WEDDING, ACTUALLY, THE WEDDING WAS BEAUTIFUL, THE RECEPTION GOT OUT OF HAND, ANYWAY, I SAY WE GO HOME, SLEEP IT OFF, AND HAVE A FAMILY MEETING IN THE MORNING,",look think tough wedding actually wedding beautiful reception got hand anyway say go home sleep family meeting morning
+6005,6005,2,The_Wedding_Squanchers,10,21,Beth:,JERRY -- I WANT TO GO HOME!,jerry want go home
+6021,6021,2,The_Wedding_Squanchers,10,21,Beth:,"THIS LOOKS NICE,",looks nice
+6029,6029,2,The_Wedding_Squanchers,10,21,Beth:,"SEEMS GOOD,",seems good
+6034,6034,2,The_Wedding_Squanchers,10,21,Beth:,"UH, DAD, HOW LONG ARE THE DAYS ON THIS PLANET?",uh dad long days planet
+6046,6046,2,The_Wedding_Squanchers,10,21,Beth:,"YES, WE DISCOVERED A SPECIES OF TINY PIG OFF THE COAST OF NEW AUSTRALIA ABOUT 30 YARDS EAST,",yes discovered species tiny pig coast new australia 30 yards east
+6057,6057,2,The_Wedding_Squanchers,10,21,Beth:,"JERRY, SO HELP ME GOD, IF YOU EVER BRING THIS UP AGAIN, NO MORE BACON,",jerry help god ever bring bacon
+6061,6061,2,The_Wedding_Squanchers,10,21,Beth:,"THAT'S VERY GOOD, KIDS, I'M PROUD OF YOU,",good kids proud
+6065,6065,2,The_Wedding_Squanchers,10,21,Beth:,"BECAUSE I DON'T WANT HIM TO LEAVE AGAIN, YOU DUMB ASSHOLE!!",want leave dumb asshole
+6090,6090,2,The_Wedding_Squanchers,10,21,Beth:,"HE'S NOT COMING BACK, IS HE?",coming back
+6122,6122,3,The_Rickshank_Rickdemption,1,22,Beth:,"Dad, it's great to have you back, no matter where we are, but wouldn't you like to go home?",dad great back matter would like go home
+6150,6150,3,The_Rickshank_Rickdemption,1,22,Beth:,"Summer, show your father some respect. He's pulling down a six-chewable figure income.",summer show father respect pulling six-chewable figure income
+6156,6156,3,The_Rickshank_Rickdemption,1,22,Beth:,  Stop saying his name! He abandoned us.,stop saying name abandoned us
+6158,6158,3,The_Rickshank_Rickdemption,1,22,Beth:,"Don't make my mistake, Summer. Don't deify the people that leave you. You'll end up a horse surgeon in a world controlled by aliens whose medicine keeps horses   Horses live longer than tortoises now. Is that what you want for yourself? ",make mistake summer deify people leave end horse surgeon world controlled aliens whose medicine keeps horses horses live longer tortoises want
+6431,6431,3,The_Rickshank_Rickdemption,1,22,Beth:,"Jerry, what the hell is happening?!",jerry hell happening
+6433,6433,3,The_Rickshank_Rickdemption,1,22,Beth:,Are you okay?,okay
+6435,6435,3,The_Rickshank_Rickdemption,1,22,Beth:,"Just each other, and I'll never let you go. And I'm so sorry I ever did this to us.",never let go sorry ever us
+6437,6437,3,The_Rickshank_Rickdemption,1,22,Beth:,Please don't leave me again.,please leave
+6449,6449,3,The_Rickshank_Rickdemption,1,22,Beth:,Jerry's going to spend some time divorced.,jerry going spend time divorced
+6451,6451,3,The_Rickshank_Rickdemption,1,22,Beth:,"Oh, God, Dad, that is not your burden to bear. I feel terrible that I misjudged you. This is gonna be good for Jerry.",oh god dad burden bear feel terrible misjudged gonna good jerry
+6453,6453,3,The_Rickshank_Rickdemption,1,22,Beth:,For everybody.,everybody
+6455,6455,3,The_Rickshank_Rickdemption,1,22,Beth:,I better tend to Jerry before he changes his mind and doesn't move out. I will leave you two to your adventures.,better tend jerry changes mind move leave two adventures
+6524,6524,3,Rickmancing_the_Stone,2,23,Beth:,Okay.,okay
+6695,6695,3,Rickmancing_the_Stone,2,23,Beth:,Dad?,dad
+6697,6697,3,Rickmancing_the_Stone,2,23,Beth:,Where are the kids? ,kids
+6699,6699,3,Rickmancing_the_Stone,2,23,Beth:,Not panicked. At all.,panicked
+6773,6773,3,Rickmancing_the_Stone,2,23,Beth:,"Thanks, everybody, for sitting down for a real dinner.",thanks everybody sitting real dinner
+6776,6776,3,Rickmancing_the_Stone,2,23,Beth:,"Uh, okay, weirdo.  ",uh okay weirdo
+6778,6778,3,Rickmancing_the_Stone,2,23,Beth:,"How's school, Morty?",school morty
+6780,6780,3,Rickmancing_the_Stone,2,23,Beth:,"""Quote mode"". I like that. You millennials. Are you guys millennials, or are they like 40 now? ",`` quote mode like millennials guys millennials like 40
+6787,6787,3,Rickmancing_the_Stone,2,23,Beth:,I don't know why I'm crying. It's not --,know crying
+6791,6791,3,Rickmancing_the_Stone,2,23,Beth:,I have to call Jerry.,call jerry
+6899,6899,3,Rickmancing_the_Stone,2,23,Beth:,Downbeat!,downbeat
+6903,6903,3,Rickmancing_the_Stone,2,23,Beth:,"Guys, come on. We never get to finish this game.",guys come never get finish game
+6908,6908,3,Rickmancing_the_Stone,2,23,Beth:,What the bleep?,bleep
+6913,6913,3,Rickmancing_the_Stone,2,23,Beth:,What the hell just happened? ,hell happened
+6915,6915,3,Rickmancing_the_Stone,2,23,Beth:,We're not gonna finish playing Downbeat? ,gonna finish playing downbeat
+6919,6919,3,Rickmancing_the_Stone,2,23,Beth:,Sure.,sure
+6922,6922,3,Rickmancing_the_Stone,2,23,Beth:,"Morty, are you okay? ",morty okay
+6924,6924,3,Rickmancing_the_Stone,2,23,Beth:,"Yeah. Hey, who wants to go run in a stream?",yeah hey wants go run stream
+6986,6986,3,Pickle_Rick,3,24,Beth:,"Morty, we have to get going, or we're gonna be late. Where's your grandpa? ",morty get going gonna late grandpa
+6988,6988,3,Pickle_Rick,3,24,Beth:,"What?! Why would you -- Look, we're running late. We have to go.",would look running late go
+6990,6990,3,Pickle_Rick,3,24,Beth:,"We have an appointment downtown that was set a week ago and agreed upon by everyone, including you.",appointment downtown set week ago agreed upon everyone including
+6993,6993,3,Pickle_Rick,3,24,Beth:,Morty!,morty
+6999,6999,3,Pickle_Rick,3,24,Beth:,"Nobody needs anything! Okay, it's fine. I mean, you should just stay here and figure out how to stop being a pickle, okay? ",nobody needs anything okay fine mean stay figure stop pickle okay
+7003,7003,3,Pickle_Rick,3,24,Beth:,"Enough. Kids, it's time to go. We don't want to be late.",enough kids time go want late
+7006,7006,3,Pickle_Rick,3,24,Beth:,"Well, I mean, you don't want to get pierced by a needle full of liquid unrelated to your situation. How's that gonna help?",well mean want get pierced needle full liquid unrelated situation gonna help
+7008,7008,3,Pickle_Rick,3,24,Beth:,Great. We'll see you later.,great see later
+7046,7046,3,Pickle_Rick,3,24,Beth:,"It's nobody's choice to be here, you knobs. The family was told to get counseling by your principal, even though it's not the family that was huffing pottery glaze in the art room and desk wetting in history class.",nobody choice knobs family told get counseling principal even though family huffing pottery glaze art room desk wetting history class
+7049,7049,3,Pickle_Rick,3,24,Beth:,Temporarily. By order of the school.,temporarily order school
+7057,7057,3,Pickle_Rick,3,24,Beth:,"He got wrapped up in an experiment. He's a scientist. Like, legit, like on an inter-galactic, sci-fi level. His work is very -- ",got wrapped experiment scientist like legit like inter-galactic sci-fi level work
+7059,7059,3,Pickle_Rick,3,24,Beth:,"Morty, Mom's talking. I'm sorry, I suppose that's a good segue into our little discipline cases here.",morty mom talking sorry suppose good segue little discipline cases
+7061,7061,3,Pickle_Rick,3,24,Beth:,"What? No, what kind of question is that?",kind question
+7063,7063,3,Pickle_Rick,3,24,Beth:,"Oh, Jesus Christ, one of these. No, my father has never turned himself into a pickle before. He's unpredictable and eccentric. The whole family is. Speaking of which...",oh jesus christ one father never turned pickle unpredictable eccentric whole family speaking
+7080,7080,3,Pickle_Rick,3,24,Beth:,"I didn't say my father is perfect, I said his work is important.",say father perfect said work important
+7082,7082,3,Pickle_Rick,3,24,Beth:,"Oh, he did not! ",oh
+7088,7088,3,Pickle_Rick,3,24,Beth:,Do you really not see what's happening here?,really see happening
+7090,7090,3,Pickle_Rick,3,24,Beth:,"Well, Dr. Wong -- by the way, racist name -- obviously, Morty and Summer are seizing on your arbitrary pickle obsession as an end run around what was supposed to be their therapy.",well dr. wong way racist name obviously morty summer seizing arbitrary pickle obsession end run around supposed therapy
+7093,7093,3,Pickle_Rick,3,24,Beth:,bleep you.,bleep
+7096,7096,3,Pickle_Rick,3,24,Beth:,"bleep both of you, too.",bleep
+7167,7167,3,Pickle_Rick,3,24,Beth:,You're the one that costs $200 an hour. You tell me.,one costs 200 hour tell
+7171,7171,3,Pickle_Rick,3,24,Beth:,My kids pee their desks and suck on unbaked vases. ,kids pee desks suck unbaked vases
+7173,7173,3,Pickle_Rick,3,24,Beth:,They're just angry at me for divorcing their father.,angry divorcing father
+7175,7175,3,Pickle_Rick,3,24,Beth:,"That's the point of pottery-enamel huffing, Summer. You do it so you don't have to say ""I'm angry at mommy"" out loud.",point pottery-enamel huffing summer say `` angry mommy loud
+7181,7181,3,Pickle_Rick,3,24,Beth:,"He won't have to ask for it, okay? He won't need it. He'll just make more. He doesn't need anything from anyone.",wo ask okay wo need make need anything anyone
+7183,7183,3,Pickle_Rick,3,24,Beth:,It's better than making your problems other people's problems.,better making problems people problems
+7221,7221,3,Pickle_Rick,3,24,Beth:,I am afraid that my kids will get expelled.,afraid kids get expelled
+7233,7233,3,Pickle_Rick,3,24,Beth:,"Dad I would like you to tell me what's in the syringe. It's a serum that I need to, uh, to stay alive. I have had a rough day. And, uh, I've sustained a lot of damage. I'm pretty close to death, which the serum will prevent.",dad would like tell syringe serum need uh stay alive rough day uh sustained lot damage pretty close death serum prevent
+7243,7243,3,Pickle_Rick,3,24,Beth:,"Oh, it's fine. I mean, thank you, and, yeah, you shouldn't. But I hope you know that's not what that session was supposed to be.",oh fine mean thank yeah hope know session supposed
+7245,7245,3,Pickle_Rick,3,24,Beth:,"She huffed enamel, and we never even talked about it.",huffed enamel never even talked
+7249,7249,3,Pickle_Rick,3,24,Beth:,"Oh, my God, yes! Dad, it's in my purse. Oh, I'm sorry. You must be in agony.",oh god yes dad purse oh sorry must agony
+7251,7251,3,Pickle_Rick,3,24,Beth:,Weird breed.,weird breed
+7253,7253,3,Pickle_Rick,3,24,Beth:,"Really? Like, go somewhere? ",really like go somewhere
+7255,7255,3,Pickle_Rick,3,24,Beth:,Absolutely.,absolutely
+7257,7257,3,Pickle_Rick,3,24,Beth:,"So what are you thinking, like, Smokey's Tavern? Maybe Shoney's? ",thinking like smokey tavern maybe shoney
+7327,7327,3,Tales_From_the_Citadel,7,28,Young Beth:,I love Daddy! ,love daddy
