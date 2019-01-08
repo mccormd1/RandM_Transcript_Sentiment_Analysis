@@ -28,7 +28,7 @@
             d.font = font.call(this, d, i);
             d.style = fontStyle.call(this, d, i);
             d.weight = fontWeight.call(this, d, i);
-            d.rotate = rotate.call(this, d, i);
+            d.rotate = 0;//rotate.call(this, d, i);
             d.size = ~~fontSize.call(this, d, i);
             d.padding = cloudPadding.call(this, d, i);
             return d;
@@ -209,7 +209,7 @@
   }
 
   function cloudRotate() {
-    return (~~(Math.random() * 6) - 3) * 30;
+    return (~~(Math.random()* 6) - 3) * 30;
   }
 
   function cloudPadding() {
